@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="/home/noah/atipitaka-old/colorPickerView/src/main/res" >
+            <file
+                name="icon"
+                path="/home/noah/atipitaka-old/colorPickerView/src/main/res/drawable-hdpi/icon.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="icon"
+                path="/home/noah/atipitaka-old/colorPickerView/src/main/res/drawable-mdpi/icon.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                path="/home/noah/atipitaka-old/colorPickerView/src/main/res/values-v11/styles.xml"
+                qualifiers="v11" >
+
+                <style name="dialog_color_pciker_view_portrait" >
+                    <item name="android:layout_width">
+fill_parent
+                    </item>
+                    <item name="android:layout_height">
+wrap_content
+                    </item>
+                </style>
+            </file>
+            <file
+                name="dialog_color_picker"
+                path="/home/noah/atipitaka-old/colorPickerView/src/main/res/layout-land/dialog_color_picker.xml"
+                qualifiers="land"
+                type="layout" />
+            <file
+                name="dialog_color_picker"
+                path="/home/noah/atipitaka-old/colorPickerView/src/main/res/layout/dialog_color_picker.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="preference_preview_layout"
+                path="/home/noah/atipitaka-old/colorPickerView/src/main/res/layout/preference_preview_layout.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="dialog_color_picker"
+                path="/home/noah/atipitaka-old/colorPickerView/src/main/res/layout-large-land/dialog_color_picker.xml"
+                qualifiers="large-land-v4"
+                type="layout" />
+            <file
+                path="/home/noah/atipitaka-old/colorPickerView/src/main/res/values-large-v11/styles.xml"
+                qualifiers="large-v11" >
+
+                <style name="dialog_color_pciker_view_portrait" >
+                    <item name="android:layout_width">
+350dp
+                    </item>
+                    <item name="android:layout_height">
+wrap_content
+                    </item>
+                </style>
+            </file>
+            <file
+                path="/home/noah/atipitaka-old/colorPickerView/src/main/res/values/ids.xml"
+                qualifiers="" >
+                <item
+                    name="dialog_color_picker_extra_layout_landscape"
+                    type="id"/>
+                <item
+                    name="preference_preview_color_panel"
+                    type="id"/>
+                <item
+                    name="color_panel_new"
+                    type="id"/>
+                <item
+                    name="color_panel_old"
+                    type="id"/>
+                <item
+                    name="color_picker_view"
+                    type="id"/>
+            </file>
+            <file
+                path="/home/noah/atipitaka-old/colorPickerView/src/main/res/values/styles.xml"
+                qualifiers="" >
+
+                <style name="dialog_color_pciker_view_portrait" >
+                    <item name="android:layout_width">
+240dp
+                    </item>
+                    <item name="android:layout_height">
+wrap_content
+                    </item>
+                </style>
+            </file>
+            <file
+                path="/home/noah/atipitaka-old/colorPickerView/src/main/res/values/attrs.xml"
+                qualifiers="" >
+                <declare-styleable name="ColorPickerView" >
+                    <attr
+                        name="alphaChannelVisible"
+                        format="boolean|reference" />
+                    <attr
+                        name="alphaChannelText"
+                        format="string|reference" />
+                    <attr
+                        name="colorPickerSliderColor"
+                        format="color|reference" />
+                    <attr
+                        name="colorPickerBorderColor"
+                        format="color|reference" />
+                </declare-styleable>
+                <declare-styleable name="ColorPickerPreference" >
+                    <attr
+                        name="showDialogTitle"
+                        format="boolean|reference" />
+                    <attr
+                        name="showSelectedColorInList"
+                        format="boolean|reference" />
+                </declare-styleable>
+            </file>
+            <file
+                path="/home/noah/atipitaka-old/colorPickerView/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="app_name" >ColorPickerView
+                </string>
+            </file>
+        </source>
+        <source path="/home/noah/atipitaka-old/colorPickerView/build/generated/res/rs/debug" />
+        <source path="/home/noah/atipitaka-old/colorPickerView/build/generated/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/home/noah/atipitaka-old/colorPickerView/src/debug/res" />
+    </dataSet>
+
+</merger>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle">
+	<gradient
+		android:startColor="#00EEEEEE"
+		android:endColor="#FFFFFF"
+		/>
+</shape><!-- From: file:/home/noah/atipitaka-old/tipitaka/src/main/res/drawable/border_right_light.xml -->

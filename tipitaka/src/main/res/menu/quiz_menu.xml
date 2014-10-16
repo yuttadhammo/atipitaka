@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  	xmlns:android="http://schemas.android.com/apk/res/android">
+  	<item android:id="@+id/read_dict_menu_item"
+  		  android:icon="@android:drawable/ic_menu_sort_alphabetically"
+  		  android:title="@string/dictionary" />          
+  	<item android:id="@+id/english_menu_item"
+  		  android:icon="@drawable/ati"
+  		  android:title="@string/english"/>          
+  	<item android:id="@+id/prefs_menu_item"
+  		  android:icon="@android:drawable/ic_menu_manage"
+		  android:title="@string/preferences" />
+  	<item android:id="@+id/help_menu_item"
+  		  android:icon="@android:drawable/ic_menu_help"
+		  android:title="@string/help" />
+</menu>

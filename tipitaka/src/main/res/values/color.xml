@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="text_color">#FF000000</color>
+    <color name="text_color_back">#FFFFFFDD</color>
+    <color name="text_color_var">#FF7D7D7D</color>
+    <color name="text_color_title">#FF888800</color>
+    <color name="text_color_search">#FF888800</color>
+    <color name="text_color_find">#FFFFFF00</color>
+</resources>

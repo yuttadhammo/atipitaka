@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  	xmlns:android="http://schemas.android.com/apk/res/android">
+  	<item android:id="@+id/pali"
+  		  android:icon="@drawable/aa"
+		  android:title="Pali" />
+  	<item android:id="@+id/forward"
+  		  android:icon="@drawable/ic_menu_forward"
+		  android:title="Forward" />
+  	<item android:id="@+id/home"
+  		  android:icon="@drawable/ic_menu_home"
+  		  android:showAsAction="ifRoom|withText" 
+		  android:title="Home" />
+  	<item android:id="@+id/memo"
+  		  android:icon="@drawable/ic_menu_save"
+  		  android:title="@string/memo" />         
+  	<item android:id="@+id/read_bookmark"
+  		  android:icon="@drawable/ic_menu_archive"
+  		  android:title="@string/bookmark" />          
+  	<item android:id="@+id/dict_menu_item"
+  		  android:icon="@android:drawable/ic_menu_sort_alphabetically"
+  		  android:title="@string/dictionary" />          
+  	<item android:id="@+id/update_archive"
+  		  android:icon="@android:drawable/ic_menu_compass"
+		  android:title="Update" />
+</menu>

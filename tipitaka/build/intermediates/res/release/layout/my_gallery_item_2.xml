@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<TextView xmlns:android="http://schemas.android.com/apk/res/android" android:id="@android:id/text1"
+   	android:textAppearance="?android:attr/textAppearanceMedium"
+	android:textColor="@color/gallery_item_color_2" 
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:textSize="25dp"
+	android:paddingTop="15dp"
+	android:paddingBottom="15dp"
+	android:paddingLeft="25dp"
+	android:paddingRight="25dp"
+	android:maxLines="1" 
+/>
+   
+
+    
+    <!-- From: file:/home/noah/atipitaka-old/tipitaka/src/main/res/layout/my_gallery_item_2.xml -->

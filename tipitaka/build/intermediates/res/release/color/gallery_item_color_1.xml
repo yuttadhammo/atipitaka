@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_selected="true"
+          android:color="#ff47aa0c"/> 
+	<item android:state_selected="false" 
+	      android:color="#ff333333"/>
+</selector><!-- From: file:/home/noah/atipitaka-old/tipitaka/src/main/res/color/gallery_item_color_1.xml -->

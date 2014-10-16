@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+	android:id="@+id/settings_container"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="fill_parent"
+		android:id="@+id/settings_text_container"
+       android:layout_height="wrap_content">
+        <TextView
+            style="@style/SettingsText"
+            android:layout_width="wrap_content"
+            android:text="Text Size"
+			android:id="@+id/settings_text"
+            android:clickable="false"/>
+		<EditText
+			android:id="@+id/settings_text_edit"
+			android:textSize="22dp"
+			android:singleLine="true"
+			android:layout_height="wrap_content"
+			android:layout_width="fill_parent"
+			android:layout_toRightOf="@id/settings_text"/>
+    </LinearLayout>
+	<Button
+		android:id="@+id/save_pref_btn"
+		android:text="Save"
+		android:layout_width="85dp" 
+		android:layout_height="wrap_content"
+		android:gravity="center_vertical|center_horizontal"
+		android:layout_gravity="center_vertical|center_horizontal|center"
+		android:textStyle="bold"
+		android:textSize="16dp"
+	/>
+<!--
+    <include layout="@layout/divider"/>
+-->
+</LinearLayout>
+<!-- From: file:/home/noah/atipitaka-old/tipitaka/src/main/res/layout/settings.xml -->

@@ -1,0 +1,28 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 20
+    buildToolsVersion "20"
+
+    defaultConfig {
+        applicationId "org.yuttadhammo.tipitaka"
+        minSdkVersion 9
+        targetSdkVersion 20
+    }
+
+    buildTypes {
+        release {
+            runProguard false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+
+}
+
+dependencies {
+    compile project(':slidingMenu')
+    compile project(':colorPickerView')
+    compile 'com.actionbarsherlock:actionbarsherlock:4.4.0@aar'
+    compile 'com.android.support:support-v4:20.0.0'
+    compile 'com.google.android.gms:play-services:5.2.08'
+}

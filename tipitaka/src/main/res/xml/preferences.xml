@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+	<PreferenceCategory android:title="@string/prefText">
+   		<EditTextPreference android:key="base_text_size"
+			android:title="@string/prefBaseSize"
+			android:shouldDisableView="true"
+			android:singleLine="true"/>
+   		<CheckBoxPreference android:key="show_var"
+			android:title="@string/prefShowVar"
+			android:defaultValue="True"/>
+   		<CheckBoxPreference android:key="show_defs"
+			android:title="@string/prefShowDefs"
+			android:defaultValue="True"/>
+   		<ListPreference android:key="text_script"
+			android:title="@string/prefTextScript"
+			/>
+		<Preference
+			android:key="text_color" 
+			android:title="@string/prefColor"/>
+		<Preference 
+			android:key="text_color_back" 
+			android:title="@string/prefBackColor"/>
+   		<Preference 
+   		    android:key="text_color_title"
+			android:title="@string/prefTitleColor"
+			/>
+   		<Preference 
+   		    android:key="text_color_var"
+			android:title="@string/prefVarColor"
+			/>
+   		<Preference 
+   		    android:key="text_color_search"
+			android:title="@string/prefSearchColor"
+			/>
+   		<Preference 
+   		    android:key="text_color_find"
+			android:title="@string/prefFindColor"
+			/>
+   	</PreferenceCategory>                       
+	<PreferenceCategory android:title="@string/prefMisc">
+   		<Preference android:key="update_pref"
+			android:title="@string/update_archive"
+            android:summary="@string/update_archive_summary"
+			android:shouldDisableView="true"
+			android:singleLine="true"/>
+        <EditTextPreference android:key="data_dir"
+			android:title="@string/prefDataDir"
+			android:shouldDisableView="true"
+			android:singleLine="true"/>
+   		<EditTextPreference android:key="ati_dir"
+			android:title="@string/prefAtiDir"
+			android:shouldDisableView="true"
+			android:singleLine="true"/>
+    </PreferenceCategory>    
+</PreferenceScreen>

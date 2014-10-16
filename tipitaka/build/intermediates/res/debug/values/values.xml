@@ -1,0 +1,2810 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- From: file:/home/noah/atipitaka-old/tipitaka/src/main/res/values/arrays.xml -->
+    <eat-comment />
+
+    <string-array name="abhi_a_list">
+        <item>121</item>
+        <item>124</item>
+        <item>127</item>
+        <item>130</item>
+        <item>133</item>
+        <item>136</item>
+        <item>141</item>
+    </string-array>
+    <string-array name="abhi_m_list">
+        <item>120</item>
+        <item>123</item>
+        <item>126</item>
+        <item>129</item>
+        <item>132</item>
+        <item>135</item>
+        <item>138</item>
+        <item>139</item>
+        <item>140</item>
+        <item>143</item>
+        <item>144</item>
+        <item>145</item>
+        <item>146</item>
+        <item>147</item>
+    </string-array>
+    <string-array name="abhi_t_list">
+        <item>122</item>
+        <item>125</item>
+        <item>128</item>
+        <item>131</item>
+        <item>134</item>
+        <item>137</item>
+        <item>142</item>
+    </string-array>
+    <string-array name="category">
+        <item>" Vinaya "</item>
+        <item>" Suttanta "</item>
+        <item>" Abhidhamma "</item>
+        <item>" Añña "</item>
+    </string-array>
+    <string-array name="declensions">
+        <item>a,1,0,</item>
+        <item>i,1,0,</item>
+        <item>u,1,0,</item>
+        <item>ati,2,0,</item>
+        <item>aati,2,0,</item>
+        <item>eti,2,0,</item>
+        <item>oti,2,0,</item>
+        <item>o,0,0,a</item>
+        <item>aa,1,0,</item>
+        <item>a.m,1,0,</item>
+        <item>.m,0,0,</item>
+        <item>e,0,0,a</item>
+        <item>ena,0,0,a</item>
+        <item>ehi,0,0,a</item>
+        <item>ebhi,0,0,a</item>
+        <item>aaya,1,0,</item>
+        <item>ssa,0,0,</item>
+        <item>aana.m,1,0,</item>
+        <item>smaa,0,0,</item>
+        <item>mhaa,0,0,</item>
+        <item>smi.m,0,0,</item>
+        <item>mhi,0,1,</item>
+        <item>esu,0,0,a</item>
+        <item>ayo,0,1,i</item>
+        <item>ii,1,1,</item>
+        <item>inaa,1,1,</item>
+        <item>iihi,1,1,</item>
+        <item>hi,0,2,</item>
+        <item>iibhi,1,1,</item>
+        <item>bhi,0,1,</item>
+        <item>ino,1,1,</item>
+        <item>iina.m,1,1,</item>
+        <item>iisu,1,1,</item>
+        <item>i,1,2,i</item>
+        <item>ina.m,1,0,</item>
+        <item>avo,0,1,u</item>
+        <item>ave,0,1,u</item>
+        <item>uu,1,1,</item>
+        <item>unaa,1,1,</item>
+        <item>uuhi,1,1,</item>
+        <item>uubhi,1,1,</item>
+        <item>uno,1,1,</item>
+        <item>uuna.m,1,1,</item>
+        <item>uusu,1,1,</item>
+        <item>u,1,2,u</item>
+        <item>aani,1,2,</item>
+        <item>iini,1,2,</item>
+        <item>uuni,1,2,</item>
+        <item>a,1,2,a</item>
+        <item>aayo,1,0,</item>
+        <item>aahi,1,0,</item>
+        <item>aabhi,1,0,</item>
+        <item>aaya.m,1,0,</item>
+        <item>aasu,1,0,</item>
+        <item>iyo,1,0,</item>
+        <item>iyaa,1,0,</item>
+        <item>iya.m,1,0,</item>
+        <item>ii,0,0,a</item>
+        <item>inii,0,0,a</item>
+        <item>uyo,1,0,</item>
+        <item>uyaa,1,0,</item>
+        <item>uya.m,1,0,</item>
+        <item>aa,1,3,nt</item>
+        <item>a,1,3,nt</item>
+        <item>ata.m,1,3,nt</item>
+        <item>anta.m,1,3,nt</item>
+        <item>anto,1,3,nt</item>
+        <item>antaa,1,3,nt</item>
+        <item>ante,1,3,nt</item>
+        <item>ataa,1,3,nt</item>
+        <item>antehi,1,3,nt</item>
+        <item>ato,1,3,nt</item>
+        <item>antaana.m,1,3,nt</item>
+        <item>ati,1,3,nt</item>
+        <item>antesu,1,3,nt</item>
+        <item>aa,1,3,nta</item>
+        <item>a,1,3,nta</item>
+        <item>ata.m,1,3,nta</item>
+        <item>ata.m,1,3,ti</item>
+        <item>anta.m,1,3,nta</item>
+        <item>anto,1,3,nta</item>
+        <item>antaa,1,3,nta</item>
+        <item>ante,1,3,nta</item>
+        <item>ataa,1,3,nta</item>
+        <item>antehi,1,3,nta</item>
+        <item>ato,1,3,nta</item>
+        <item>antaana.m,1,3,nta</item>
+        <item>ati,1,3,nta</item>
+        <item>antesu,1,3,nta</item>
+        <item>aa,0,2,ar</item>
+        <item>aara.m,0,2,ar</item>
+        <item>aaraa,0,2,ar</item>
+        <item>u,0,2,ar</item>
+        <item>uno,0,2,ar</item>
+        <item>ari,0,2,ar</item>
+        <item>aaro,0,2,ar</item>
+        <item>uuhi,0,2,ar</item>
+        <item>uubhi,0,2,ar</item>
+        <item>uuna.m,0,2,ar</item>
+        <item>aaraana.m,0,2,ar</item>
+        <item>uusu,0,2,ar</item>
+        <item>aa,0,2,ar</item>
+        <item>a,0,2,ar</item>
+        <item>ara.m,0,2,ar</item>
+        <item>araa,0,2,ar</item>
+        <item>aro,0,2,ar</item>
+        <item>unaa,0,2,ar</item>
+        <item>arehi,0,2,ar</item>
+        <item>arebhi,0,2,ar</item>
+        <item>aana.m,0,2,ar</item>
+        <item>araana.m,0,2,ar</item>
+        <item>unna.m,0,2,ar</item>
+        <item>ito,0,2,ar</item>
+        <item>uyaa,0,2,ar</item>
+        <item>yaa,0,2,ar</item>
+        <item>ya.m,0,2,ar</item>
+        <item>uya.m,0,2,ar</item>
+        <item>asaa,0,0,o</item>
+        <item>aso,0,0,o</item>
+        <item>asaa,0,0,o</item>
+        <item>aso,0,0,o</item>
+        <item>asi,0,0,o</item>
+        <item>aa,0,0,o</item>
+        <item>a.m,0,0,o</item>
+        <item>e,0,0,o</item>
+        <item>ena,0,0,o</item>
+        <item>ehi,0,0,o</item>
+        <item>ebhi,0,0,o</item>
+        <item>aaya,0,0,o</item>
+        <item>assa,0,0,o</item>
+        <item>aana.m,0,0,o</item>
+        <item>asmaa,0,0,o</item>
+        <item>amhaa,0,0,o</item>
+        <item>asmi.m,0,0,o</item>
+        <item>amhi,0,0,o</item>
+        <item>esu,0,0,o</item>
+        <item>ato,1,2,ti</item>
+        <item>ataa,1,2,ti</item>
+        <item>ato,1,2,ati</item>
+        <item>ataa,1,2,ati</item>
+        <item>eto,1,2,ti</item>
+        <item>etaa,1,2,ti</item>
+        <item>oto,1,2,ti</item>
+        <item>otaa,1,2,ti</item>
+        <item>ahi,1,1,</item>
+        <item>to,0,2,</item>
+        <item>anna.m,1,1,</item>
+        <item>unna.m,1,1,</item>
+        <item>inna.m,1,1,</item>
+        <item>ataa,2,1,i</item>
+        <item>iya,0,2,a</item>
+        <item>uya.m,0,0,</item>
+        <item>ati,3,0,</item>
+        <item>aati,4,0,</item>
+        <item>eti,3,0,</item>
+        <item>oti,3,0,</item>
+        <item>anti,1,0,ti</item>
+        <item>si,0,3,ti</item>
+        <item>asi,1,0,ti</item>
+        <item>atha,1,0,ti</item>
+        <item>aami,1,0,ti</item>
+        <item>aama,1,0,ti</item>
+        <item>aami,2,0,ti</item>
+        <item>aama,2,0,ti</item>
+        <item>onti,1,0,ti</item>
+        <item>osi,1,0,ti</item>
+        <item>otha,1,0,ti</item>
+        <item>omi,1,0,ti</item>
+        <item>oma,1,0,ti</item>
+        <item>enti,1,0,ti</item>
+        <item>esi,1,0,ti</item>
+        <item>etha,1,0,ti</item>
+        <item>emi,1,0,ti</item>
+        <item>ema,1,0,ti</item>
+        <item>hi,0,3,ti</item>
+        <item>atu,1,2,ti</item>
+        <item>antu,1,1,ti</item>
+        <item>ohi,1,0,ti</item>
+        <item>otu,1,0,ti</item>
+        <item>ontu,1,0,ti</item>
+        <item>etu,1,0,ti</item>
+        <item>entu,1,0,ti</item>
+        <item>ehi,1,0,ti</item>
+        <item>eti,0,2,ati</item>
+        <item>enti,0,2,ati</item>
+        <item>esi,0,2,ati</item>
+        <item>etha,0,2,ati</item>
+        <item>emi,0,2,ati</item>
+        <item>ema,0,2,ati</item>
+        <item>eti,0,2,aati</item>
+        <item>enti,0,2,aati</item>
+        <item>esi,0,2,aati</item>
+        <item>etha,0,2,aati</item>
+        <item>emi,0,2,aati</item>
+        <item>ema,0,2,aati</item>
+        <item>entu,0,2,ati</item>
+        <item>ayitvaa,0,2,eti</item>
+        <item>ayitvaana,0,2,eti</item>
+        <item>vaana,0,2,i</item>
+        <item>aapetvaa,1,0,ti</item>
+        <item>itvaana,0,0,ati</item>
+        <item>itvaana,0,0,aati</item>
+        <item>itvaana,0,0,eti</item>
+        <item>etvaana,0,0,ati</item>
+        <item>tvaana,0,0,ti</item>
+        <item>itvaa,0,0,ati</item>
+        <item>itvaa,0,0,aati</item>
+        <item>itvaa,0,0,eti</item>
+        <item>etvaa,0,0,ati</item>
+        <item>tvaa,0,0,ti</item>
+        <item>aaya,1,0,ti</item>
+        <item>aaya,1,0,ati</item>
+        <item>aaya,1,0,aati</item>
+        <item>aaya,1,0,eti</item>
+        <item>tu.m,0,0,ti</item>
+        <item>itu.m,0,0,ati</item>
+        <item>itu.m,0,0,aati</item>
+        <item>a,0,3,ati</item>
+        <item>i,0,3,ati</item>
+        <item>imha,0,0,ati</item>
+        <item>imhaa,0,0,ati</item>
+        <item>i.msu,0,1,ati</item>
+        <item>ittha,0,0,ati</item>
+        <item>u.m,0,0,ati</item>
+        <item>su.m,0,0,ti</item>
+        <item>si.m,0,0,ti</item>
+        <item>i.m,0,0,ati</item>
+        <item>a,0,3,aati</item>
+        <item>i,0,3,aati</item>
+        <item>imha,0,0,aati</item>
+        <item>imhaa,0,0,aati</item>
+        <item>i.msu,0,1,aati</item>
+        <item>ittha,0,0,aati</item>
+        <item>u.m,0,0,aati</item>
+        <item>i.m,0,0,aati</item>
+        <item>a,0,3,eti</item>
+        <item>i,0,3,eti</item>
+        <item>imha,0,0,eti</item>
+        <item>imhaa,0,0,eti</item>
+        <item>i.msu,0,1,eti</item>
+        <item>ayi.msu,0,1,eti</item>
+        <item>ittha,0,0,eti</item>
+        <item>u.m,0,0,eti</item>
+        <item>i.m,0,0,eti</item>
+        <item>eyya,0,0,ati</item>
+        <item>eyya.m,0,0,ati</item>
+        <item>eyyu.m,0,0,ati</item>
+        <item>eyyati,0,0,ati</item>
+        <item>eyyasi,0,0,ati</item>
+        <item>eyyaatha,0,0,ati</item>
+        <item>eyyaami,0,0,ati</item>
+        <item>eyyaasi,0,0,ati</item>
+        <item>eyyaama,0,0,ati</item>
+        <item>eyyanti,0,0,ati</item>
+        <item>eyya,0,0,aati</item>
+        <item>eyya.m,0,0,aati</item>
+        <item>eyyu.m,0,0,aati</item>
+        <item>eyyati,0,0,aati</item>
+        <item>eyyasi,0,0,aati</item>
+        <item>eyyaatha,0,0,aati</item>
+        <item>eyyaami,0,0,aati</item>
+        <item>eyyaasi,0,0,aati</item>
+        <item>eyyaama,0,0,aati</item>
+        <item>eyyanti,0,0,aati</item>
+        <item>eyya,1,0,ti</item>
+        <item>eyya.m,1,0,ti</item>
+        <item>eyyu.m,1,0,ti</item>
+        <item>eyyati,1,0,ti</item>
+        <item>eyyasi,1,0,ti</item>
+        <item>eyyaatha,1,0,ti</item>
+        <item>eyyaami,1,0,ti</item>
+        <item>eyyaasi,1,0,ti</item>
+        <item>eyyaama,1,0,ti</item>
+        <item>eyyanti,1,0,ti</item>
+        <item>eyya,0,0,oti</item>
+        <item>eyya.m,0,0,oti</item>
+        <item>eyyu.m,0,0,oti</item>
+        <item>eyyati,0,0,oti</item>
+        <item>eyyasi,0,0,oti</item>
+        <item>eyyaatha,0,0,oti</item>
+        <item>eyyaami,0,0,oti</item>
+        <item>eyyaasi,0,0,oti</item>
+        <item>eyyaama,0,0,oti</item>
+        <item>eyyanti,0,0,oti</item>
+        <item>issa,0,2,ati</item>
+        <item>issaa,0,2,ati</item>
+        <item>issa.msu,0,2,ati</item>
+        <item>issatha,0,2,ati</item>
+        <item>issa.m,0,2,ati</item>
+        <item>issaama,0,2,ati</item>
+        <item>issa,0,2,aati</item>
+        <item>issaa,0,2,aati</item>
+        <item>issa.msu,0,2,aati</item>
+        <item>issa,0,2,aati</item>
+        <item>issatha,0,2,aati</item>
+        <item>issa.m,0,2,aati</item>
+        <item>issaama,0,2,aati</item>
+        <item>essa,1,2,ti</item>
+        <item>essaa,1,2,ti</item>
+        <item>essa.msu,1,2,ti</item>
+        <item>essa,1,2,ti</item>
+        <item>essatha,1,2,ti</item>
+        <item>essa.m,1,2,ti</item>
+        <item>essaama,1,2,ti</item>
+    </string-array>
+    <string-array name="dict">
+        <item>PED</item>
+        <item>CPED</item>
+        <item>DPPN</item>
+        <item>MULTI</item>
+    </string-array>
+    <string-array name="etc_a_list">
+        <item>149</item>
+        <item>151</item>
+    </string-array>
+    <string-array name="etc_m_list">
+        <item>148</item>
+        <item>150</item>
+        <item>152</item>
+        <item>153</item>
+        <item>154</item>
+        <item>155</item>
+        <item>156</item>
+        <item>157</item>
+        <item>158</item>
+    </string-array>
+    <string-array name="etc_t_list"></string-array>
+    <string-array name="hnames">
+        <item>Mūla</item>
+        <item>Aṭṭhakathā</item>
+        <item>Ṭīkā</item>
+    </string-array>
+    <string-array name="langs">
+        <item>Thai</item>
+        <item>Pali</item>
+    </string-array>
+
+    <integer-array name="lengths_0">
+        <item>6</item>
+        <item>6</item>
+        <item>7</item>
+    </integer-array>
+    <integer-array name="lengths_1">
+        <item>43</item>
+        <item>36</item>
+        <item>22</item>
+    </integer-array>
+    <integer-array name="lengths_2">
+        <item>14</item>
+        <item>7</item>
+        <item>7</item>
+    </integer-array>
+    <integer-array name="lengths_3">
+        <item>9</item>
+        <item>2</item>
+        <item>0</item>
+    </integer-array>
+    <integer-array name="ncategory">
+        <item>19</item>
+        <item>101</item>
+        <item>28</item>
+        <item>11</item>
+    </integer-array>
+    <integer-array name="nitem">
+        <item>657</item>
+        <item>881</item>
+        <item>504</item>
+        <item>252</item>
+        <item>261</item>
+        <item>694</item>
+        <item>664</item>
+        <item>1366</item>
+        <item>385</item>
+        <item>330</item>
+        <item>475</item>
+        <item>566</item>
+        <item>759</item>
+        <item>865</item>
+        <item>957</item>
+        <item>727</item>
+        <item>612</item>
+        <item>803</item>
+        <item>1803</item>
+        <item>599</item>
+        <item>274</item>
+        <item>401</item>
+        <item>283</item>
+        <item>231</item>
+        <item>444</item>
+        <item>474</item>
+        <item>2549</item>
+        <item>1269</item>
+        <item>987</item>
+        <item>821</item>
+        <item>741</item>
+        <item>412</item>
+        <item>180</item>
+        <item>987</item>
+        <item>1118</item>
+        <item>515</item>
+        <item>1897</item>
+        <item>1581</item>
+        <item>1454</item>
+        <item>1767</item>
+        <item>2268</item>
+        <item>730</item>
+        <item>876</item>
+        <item>1911</item>
+        <item>1488</item>
+    </integer-array>
+    <integer-array name="npage_pali">
+        <item>70</item>
+        <item>139</item>
+        <item>142</item>
+        <item>104</item>
+        <item>102</item>
+        <item>92</item>
+        <item>125</item>
+        <item>116</item>
+        <item>19</item>
+        <item>272</item>
+        <item>129</item>
+        <item>133</item>
+        <item>185</item>
+        <item>67</item>
+        <item>65</item>
+        <item>218</item>
+        <item>70</item>
+        <item>53</item>
+        <item>23</item>
+        <item>133</item>
+        <item>110</item>
+        <item>139</item>
+        <item>152</item>
+        <item>145</item>
+        <item>158</item>
+        <item>140</item>
+        <item>138</item>
+        <item>144</item>
+        <item>75</item>
+        <item>135</item>
+        <item>157</item>
+        <item>51</item>
+        <item>51</item>
+        <item>51</item>
+        <item>52</item>
+        <item>60</item>
+        <item>59</item>
+        <item>271</item>
+        <item>256</item>
+        <item>271</item>
+        <item>248</item>
+        <item>188</item>
+        <item>191</item>
+        <item>333</item>
+        <item>112</item>
+        <item>109</item>
+        <item>344</item>
+        <item>156</item>
+        <item>149</item>
+        <item>615</item>
+        <item>234</item>
+        <item>211</item>
+        <item>31</item>
+        <item>98</item>
+        <item>90</item>
+        <item>28</item>
+        <item>27</item>
+        <item>26</item>
+        <item>159</item>
+        <item>137</item>
+        <item>112</item>
+        <item>278</item>
+        <item>189</item>
+        <item>139</item>
+        <item>266</item>
+        <item>174</item>
+        <item>94</item>
+        <item>121</item>
+        <item>83</item>
+        <item>60</item>
+        <item>96</item>
+        <item>50</item>
+        <item>37</item>
+        <item>92</item>
+        <item>68</item>
+        <item>33</item>
+        <item>77</item>
+        <item>40</item>
+        <item>28</item>
+        <item>201</item>
+        <item>90</item>
+        <item>35</item>
+        <item>23</item>
+        <item>11</item>
+        <item>6</item>
+        <item>9</item>
+        <item>101</item>
+        <item>26</item>
+        <item>307</item>
+        <item>80</item>
+        <item>82</item>
+        <item>112</item>
+        <item>111</item>
+        <item>73</item>
+        <item>75</item>
+        <item>85</item>
+        <item>86</item>
+        <item>51</item>
+        <item>53</item>
+        <item>265</item>
+        <item>266</item>
+        <item>73</item>
+        <item>69</item>
+        <item>563</item>
+        <item>270</item>
+        <item>40</item>
+        <item>29</item>
+        <item>38</item>
+        <item>36</item>
+        <item>40</item>
+        <item>520</item>
+        <item>526</item>
+        <item>46</item>
+        <item>45</item>
+        <item>16</item>
+        <item>41</item>
+        <item>148</item>
+        <item>248</item>
+        <item>42</item>
+        <item>17</item>
+        <item>126</item>
+        <item>94</item>
+        <item>79</item>
+        <item>389</item>
+        <item>132</item>
+        <item>123</item>
+        <item>39</item>
+        <item>24</item>
+        <item>22</item>
+        <item>20</item>
+        <item>11</item>
+        <item>9</item>
+        <item>255</item>
+        <item>242</item>
+        <item>175</item>
+        <item>401</item>
+        <item>35</item>
+        <item>31</item>
+        <item>212</item>
+        <item>188</item>
+        <item>1143</item>
+        <item>60</item>
+        <item>47</item>
+        <item>718</item>
+        <item>1202</item>
+        <item>380</item>
+        <item>971</item>
+        <item>838</item>
+        <item>92</item>
+        <item>94</item>
+        <item>95</item>
+        <item>95</item>
+        <item>79</item>
+        <item>78</item>
+        <item>14</item>
+        <item>31</item>
+        <item>19</item>
+        <item>69</item>
+        <item>48</item>
+    </integer-array>
+    <integer-array name="npage_thai">
+        <item>754</item>
+        <item>717</item>
+        <item>328</item>
+        <item>304</item>
+        <item>278</item>
+        <item>328</item>
+        <item>279</item>
+        <item>517</item>
+        <item>383</item>
+        <item>261</item>
+        <item>288</item>
+        <item>430</item>
+        <item>518</item>
+        <item>413</item>
+        <item>289</item>
+        <item>288</item>
+        <item>310</item>
+        <item>402</item>
+        <item>469</item>
+        <item>290</item>
+        <item>240</item>
+        <item>407</item>
+        <item>379</item>
+        <item>333</item>
+        <item>418</item>
+        <item>447</item>
+        <item>462</item>
+        <item>318</item>
+        <item>494</item>
+        <item>331</item>
+        <item>364</item>
+        <item>428</item>
+        <item>408</item>
+        <item>339</item>
+        <item>532</item>
+        <item>188</item>
+        <item>842</item>
+        <item>731</item>
+        <item>525</item>
+        <item>818</item>
+        <item>674</item>
+        <item>466</item>
+        <item>574</item>
+        <item>659</item>
+        <item>474</item>
+    </integer-array>
+
+    <string-array name="sut_a_list">
+        <item>20</item>
+        <item>23</item>
+        <item>26</item>
+        <item>29</item>
+        <item>32</item>
+        <item>35</item>
+        <item>38</item>
+        <item>41</item>
+        <item>44</item>
+        <item>47</item>
+        <item>50</item>
+        <item>53</item>
+        <item>56</item>
+        <item>59</item>
+        <item>62</item>
+        <item>65</item>
+        <item>68</item>
+        <item>71</item>
+        <item>74</item>
+        <item>77</item>
+        <item>80</item>
+        <item>83</item>
+        <item>86</item>
+        <item>88</item>
+        <item>90</item>
+        <item>92</item>
+        <item>94</item>
+        <item>96</item>
+        <item>98</item>
+        <item>100</item>
+        <item>102</item>
+        <item>104</item>
+        <item>107</item>
+        <item>109</item>
+        <item>111</item>
+        <item>113</item>
+    </string-array>
+    <string-array name="sut_m_list">
+        <item>19</item>
+        <item>22</item>
+        <item>25</item>
+        <item>28</item>
+        <item>31</item>
+        <item>34</item>
+        <item>37</item>
+        <item>40</item>
+        <item>43</item>
+        <item>46</item>
+        <item>49</item>
+        <item>52</item>
+        <item>55</item>
+        <item>58</item>
+        <item>61</item>
+        <item>64</item>
+        <item>67</item>
+        <item>70</item>
+        <item>73</item>
+        <item>76</item>
+        <item>79</item>
+        <item>82</item>
+        <item>85</item>
+        <item>87</item>
+        <item>89</item>
+        <item>91</item>
+        <item>93</item>
+        <item>95</item>
+        <item>97</item>
+        <item>99</item>
+        <item>101</item>
+        <item>103</item>
+        <item>105</item>
+        <item>106</item>
+        <item>108</item>
+        <item>110</item>
+        <item>112</item>
+        <item>114</item>
+        <item>115</item>
+        <item>116</item>
+        <item>117</item>
+        <item>118</item>
+        <item>119</item>
+    </string-array>
+    <string-array name="sut_m_names">
+        <item>d1</item>
+        <item>d2</item>
+        <item>d3</item>
+        <item>m1</item>
+        <item>m2</item>
+        <item>m3</item>
+        <item>s1</item>
+        <item>s2</item>
+        <item>s3</item>
+        <item>s4</item>
+        <item>s5</item>
+        <item>a1</item>
+        <item>a2</item>
+        <item>a3</item>
+        <item>a4</item>
+        <item>a5</item>
+        <item>a6</item>
+        <item>a7</item>
+        <item>a8</item>
+        <item>a9</item>
+        <item>a10</item>
+        <item>a11</item>
+        <item>k1</item>
+        <item>k2</item>
+        <item>k3</item>
+        <item>k4</item>
+        <item>k5</item>
+        <item>k6</item>
+        <item>k7</item>
+        <item>k8</item>
+        <item>k9</item>
+        <item>k10</item>
+        <item>k11</item>
+        <item>k12</item>
+        <item>k13</item>
+        <item>k14</item>
+        <item>k15</item>
+        <item>k16</item>
+        <item>k17</item>
+        <item>k18</item>
+        <item>k19</item>
+        <item>k20</item>
+        <item>k21</item>
+    </string-array>
+    <string-array name="sut_t_list">
+        <item>21</item>
+        <item>24</item>
+        <item>27</item>
+        <item>30</item>
+        <item>33</item>
+        <item>36</item>
+        <item>39</item>
+        <item>42</item>
+        <item>45</item>
+        <item>48</item>
+        <item>51</item>
+        <item>54</item>
+        <item>57</item>
+        <item>60</item>
+        <item>63</item>
+        <item>66</item>
+        <item>69</item>
+        <item>72</item>
+        <item>75</item>
+        <item>78</item>
+        <item>81</item>
+        <item>84</item>
+    </string-array>
+    <string-array name="text_scripts">
+        <item>Roman</item>
+        <item>Thai</item>
+        <item>Devanagari</item>
+        <item>Myanmar</item>
+        <item>Sinhala</item>
+    </string-array>
+    <string-array name="thainum">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
+    <string-array name="vin_a_list">
+        <item>1</item>
+        <item>4</item>
+        <item>7</item>
+        <item>10</item>
+        <item>13</item>
+        <item>16</item>
+    </string-array>
+    <string-array name="vin_m_list">
+        <item>0</item>
+        <item>3</item>
+        <item>6</item>
+        <item>9</item>
+        <item>12</item>
+        <item>15</item>
+    </string-array>
+    <string-array name="vin_t_list">
+        <item>2</item>
+        <item>5</item>
+        <item>8</item>
+        <item>11</item>
+        <item>14</item>
+        <item>17</item>
+        <item>18</item>
+    </string-array>
+    <string-array name="volume_names">
+        <item>" pārājika "</item>
+        <item>" pārājikakaṇḍa aṭṭhakathā "</item>
+        <item>" sārattha dīpanī ṭīkā "</item>
+        <item>" pācittiya "</item>
+        <item>" pācittiya aṭṭhakathā "</item>
+        <item>" sāratthadīpanī ṭīkā 3 "</item>
+        <item>" bhikkhunī vibhaṅgo "</item>
+        <item>" bhikkhunī vibhaṅga vaṇṇanā "</item>
+        <item>" sāratthadīpanī ṭīkā "</item>
+        <item>" mahāvagga "</item>
+        <item>" mahāvagga aṭṭhakathā "</item>
+        <item>" mahāvagga ṭīkā "</item>
+        <item>" cūḷavagga "</item>
+        <item>" cūḷavagga aṭṭhakathā "</item>
+        <item>" cūḷavagga ṭīkā "</item>
+        <item>" parivāra "</item>
+        <item>" parivāra aṭṭhakathā "</item>
+        <item>" parivāra ṭīkā "</item>
+        <item>" dvemātikā "</item>
+        <item>" sīlakkhandhavagga "</item>
+        <item>" sīlakkhandhavagga aṭṭhakathā "</item>
+        <item>" sīlakkhandhavagga ṭīkā "</item>
+        <item>" mahāvagga "</item>
+        <item>" mahāvagga aṭṭhakathā "</item>
+        <item>" mahāvagga ṭīkā "</item>
+        <item>" pāthikavagga "</item>
+        <item>" pāthikavagga aṭṭhakathā "</item>
+        <item>" pāthikavagga ṭīkā "</item>
+        <item>" mūlapaṇṇāsa "</item>
+        <item>" mūlapaṇṇāsa aṭṭhakathā "</item>
+        <item>" mūlapaṇṇāsa ṭīkā "</item>
+        <item>" majjhimapaṇṇāsa "</item>
+        <item>" majjhimapaṇṇāsa aṭṭhakathā "</item>
+        <item>" majjhimapaṇṇāsa ṭīkā "</item>
+        <item>" uparipaṇṇāsa "</item>
+        <item>" uparipaṇṇāsa aṭṭhakathā "</item>
+        <item>" uparipaṇṇāsa ṭīkā "</item>
+        <item>" sagāthāvaggo "</item>
+        <item>" sagāthāvagga aṭṭhakathā "</item>
+        <item>" sagāthāvagga ṭīkā "</item>
+        <item>" nidānavaggo "</item>
+        <item>" nidānavagga aṭṭhakathā "</item>
+        <item>" nidānavagga ṭīkā "</item>
+        <item>" khandhavaggo "</item>
+        <item>" khandhavagga aṭṭhakathā "</item>
+        <item>" khandhavagga ṭīkā "</item>
+        <item>" saḷāyatanavaggo "</item>
+        <item>" saḷāyatanavagga aṭṭhakathā "</item>
+        <item>" saḷāyatanavagga ṭīkā "</item>
+        <item>" mahāvaggo "</item>
+        <item>" mahāvagga aṭṭhakathā "</item>
+        <item>" mahāvagga ṭīkā "</item>
+        <item>" ekakanipāta "</item>
+        <item>" ekakanipāta aṭṭhakathā "</item>
+        <item>" ekakanipāta ṭīkā "</item>
+        <item>" dukanipāta "</item>
+        <item>" dukanipāta aṭṭhakathā "</item>
+        <item>" dukanipāta ṭīkā "</item>
+        <item>" tikanipāta "</item>
+        <item>" tikanipāta aṭṭhakathā "</item>
+        <item>" tikanipāta ṭīkā "</item>
+        <item>" catukkanipāta "</item>
+        <item>" catukkanipāta aṭṭhakathā "</item>
+        <item>" catukkanipāta ṭīkā "</item>
+        <item>" pañcakanipāta "</item>
+        <item>" pañcakanipāta aṭṭhakathā "</item>
+        <item>" pañcakanipāta ṭīkā "</item>
+        <item>" chakkanipāta "</item>
+        <item>" chakkanipāta aṭṭhakathā "</item>
+        <item>" chakkanipāta ṭīkā "</item>
+        <item>" sattakanipāta "</item>
+        <item>" sattakanipāta aṭṭhakathā "</item>
+        <item>" sattakanipāta ṭīkā "</item>
+        <item>" aṭṭhakanipāta "</item>
+        <item>" aṭṭhakanipāta aṭṭhakathā "</item>
+        <item>" aṭṭhakanipāta ṭīkā "</item>
+        <item>" navakanipāta "</item>
+        <item>" navakanipāta aṭṭhakathā "</item>
+        <item>" navakanipāta ṭīkā "</item>
+        <item>" dasakanipāta "</item>
+        <item>" dasakanipāta aṭṭhakathā "</item>
+        <item>" dasakanipāta ṭīkā "</item>
+        <item>" ekādasakanipāta "</item>
+        <item>" ekādasakanipāta aṭṭhakathā "</item>
+        <item>" ekādasakanipāta ṭīkā "</item>
+        <item>" khuddakapāṭha "</item>
+        <item>" khuddakapāṭha aṭṭhakathā "</item>
+        <item>" dhammapada "</item>
+        <item>" dhammapada aṭṭhakathā "</item>
+        <item>" udāna "</item>
+        <item>" udāna aṭṭhakathā "</item>
+        <item>" itivuttaka "</item>
+        <item>" itivuttaka aṭṭhakathā "</item>
+        <item>" suttanipāta "</item>
+        <item>" suttanipāta aṭṭhakathā "</item>
+        <item>" vimānavatthu "</item>
+        <item>" vimānavatthu aṭṭhakathā "</item>
+        <item>" petavatthu "</item>
+        <item>" petavatthu aṭṭhakathā "</item>
+        <item>" theragāthā "</item>
+        <item>" theragāthā aṭṭhakathā "</item>
+        <item>" therīgāthā "</item>
+        <item>" therīgāthā aṭṭhakathā "</item>
+        <item>" therāpadāna "</item>
+        <item>" apadāna aṭṭhakathā "</item>
+        <item>" therīapadāna "</item>
+        <item>" buddhavaṃsa "</item>
+        <item>" buddhavaṃsa aṭṭhakathā "</item>
+        <item>" cariyāpiṭaka "</item>
+        <item>" cariyāpiṭaka aṭṭhakathā "</item>
+        <item>" jātaka 1 "</item>
+        <item>" jātaka aṭṭhakathā "</item>
+        <item>" jātaka 2 "</item>
+        <item>" jātaka aṭṭhakathā "</item>
+        <item>" mahāniddesa "</item>
+        <item>" cūḷaniddesa "</item>
+        <item>" paṭisambhidāmagga "</item>
+        <item>" milindapañha "</item>
+        <item>" nettippakaraṇa "</item>
+        <item>" peṭakopadesa "</item>
+        <item>" dhammasaṅgaṇī "</item>
+        <item>" dhammasaṅgaṇī aṭṭhakathā "</item>
+        <item>" dhammasaṅgaṇī mūlaṭīkā "</item>
+        <item>" vibhaṅga "</item>
+        <item>" vibhaṅga aṭṭhakathā "</item>
+        <item>" vibhaṅgamūla ṭīkā "</item>
+        <item>" dhātukathā "</item>
+        <item>" dhātukathā aṭṭhakathā "</item>
+        <item>" dhātukathā pakaraṇa mūlaṭīkā "</item>
+        <item>" puggalapaññatti "</item>
+        <item>" puggalapaññatti aṭṭhakathā "</item>
+        <item>" puggalapaññatti pakaraṇa mūlaṭīkā "</item>
+        <item>" kathāvatthu "</item>
+        <item>" kathāvatthu aṭṭhakathā "</item>
+        <item>" kathāvatthu pakaraṇa mūlaṭīkā "</item>
+        <item>" yamaka 1 "</item>
+        <item>" yamakappakaraṇa aṭṭhakathā "</item>
+        <item>" yamakapakaraṇa mūlaṭīkā "</item>
+        <item>" yamaka 2 "</item>
+        <item>" yamaka 3 "</item>
+        <item>" paṭṭhāna 1 dhammānulome tikapaṭṭhānaṃ "</item>
+        <item>" paṭṭhānappakaraṇa aṭṭhakathā "</item>
+        <item>" paṭṭhānappakaraṇa mūlaṭīkā "</item>
+        <item>" paṭṭhāna 2 dhammānulome tikapaṭṭhānaṃ "</item>
+        <item>" paṭṭhāna 3 dhammānulome dukapaṭṭhānaṃ "</item>
+        <item>" paṭṭhāna 4 dhammānulome dukapaṭṭhānaṃ "</item>
+        <item>" paṭṭhāna 4 "</item>
+        <item>" paṭṭhāna 5 "</item>
+        <item>" visuddhimaggo 1 "</item>
+        <item>" visuddhimagga mahāṭīkā 1 "</item>
+        <item>" visuddhimaggo 2 "</item>
+        <item>" visuddhimagga mahāṭīkā 2 "</item>
+        <item>" abhidhammattha saṅgaho "</item>
+        <item>" abhidhammattha vibhāvinī ṭīkā "</item>
+        <item>" moggallāna "</item>
+        <item>" kaccāyanabyākaraṇaṃ "</item>
+        <item>" saddanītippakaraṇaṃ padamālā "</item>
+        <item>" saddanītippakaraṇaṃ dhātumālā "</item>
+        <item>" padarūpasiddhi "</item>
+    </string-array>
+    <!-- From: file:/home/noah/atipitaka-old/tipitaka/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml -->
+    <eat-comment />
+
+    <attr name="background" format="reference|color" />
+    <attr name="backgroundSplit" format="reference|color" />
+    <attr name="divider" format="reference" />
+    <attr name="height" format="dimension" />
+    <attr name="subtitleTextStyle" format="reference" />
+    <attr name="titleTextStyle" format="reference" />
+
+    <bool name="abs__action_bar_embed_tabs">false</bool>
+    <bool name="abs__action_bar_expanded_action_views_exclusive">true</bool>
+    <bool name="abs__config_actionMenuItemAllCaps">true</bool>
+    <bool name="abs__config_allowActionMenuItemTextWithIcon">false</bool>
+    <bool name="abs__config_showMenuShortcutsWhenKeyboardPresent">false</bool>
+    <bool name="abs__split_action_bar_is_narrow">true</bool>
+
+    <color name="abs__background_holo_dark">#ff000000</color>
+    <color name="abs__background_holo_light">#fff3f3f3</color>
+    <color name="abs__bright_foreground_disabled_holo_dark">#ff4c4c4c</color>
+    <color name="abs__bright_foreground_disabled_holo_light">#ffb2b2b2</color>
+    <color name="abs__bright_foreground_holo_dark">@color/abs__background_holo_light</color>
+    <color name="abs__bright_foreground_holo_light">@color/abs__background_holo_dark</color>
+    <!-- From: file:/home/noah/atipitaka-old/tipitaka/build/intermediates/exploded-aar/com.google.android.gms/play-services/5.2.08/res/values/common_colors.xml -->
+    <eat-comment />
+
+    <color name="common_action_bar_splitter">#d2d2d2</color>
+    <color name="common_signin_btn_dark_text_default">@android:color/white</color>
+    <color name="common_signin_btn_dark_text_disabled">#FFAAAAAA</color>
+    <color name="common_signin_btn_dark_text_focused">@android:color/white</color>
+    <color name="common_signin_btn_dark_text_pressed">@android:color/white</color>
+    <color name="common_signin_btn_default_background">#FFDD4B39</color>
+    <color name="common_signin_btn_light_text_default">#FF737373</color>
+    <color name="common_signin_btn_light_text_disabled">#FFAAAAAA</color>
+    <color name="common_signin_btn_light_text_focused">#FF737373</color>
+    <color name="common_signin_btn_light_text_pressed">@android:color/white</color>
+    <!-- From: file:/home/noah/atipitaka-old/tipitaka/src/main/res/values/color.xml -->
+    <eat-comment />
+
+    <color name="text_color">#FF000000</color>
+    <color name="text_color_back">#FFFFFFDD</color>
+    <color name="text_color_find">#FFFFFF00</color>
+    <color name="text_color_search">#FF888800</color>
+    <color name="text_color_title">#FF888800</color>
+    <color name="text_color_var">#FF7D7D7D</color>
+    <!-- From: file:/home/noah/atipitaka-old/tipitaka/build/intermediates/exploded-aar/com.google.android.gms/play-services/5.2.08/res/values/wallet_colors.xml -->
+    <eat-comment />
+
+    <color name="wallet_bright_foreground_disabled_holo_light">#ffb2b2b2</color>
+    <color name="wallet_bright_foreground_holo_dark">#fff3f3f3</color>
+    <color name="wallet_bright_foreground_holo_light">#ff000000</color>
+    <color name="wallet_dim_foreground_disabled_holo_dark">#80bebebe</color>
+    <color name="wallet_dim_foreground_holo_dark">#bebebe</color>
+    <color name="wallet_dim_foreground_inverse_disabled_holo_dark">#80323232</color>
+    <color name="wallet_dim_foreground_inverse_holo_dark">#323232</color>
+    <color name="wallet_highlighted_text_holo_dark">#6633b5e5</color>
+    <color name="wallet_highlighted_text_holo_light">#6633b5e5</color>
+    <color name="wallet_hint_foreground_holo_dark">#808080</color>
+    <color name="wallet_hint_foreground_holo_light">#808080</color>
+    <color name="wallet_holo_blue_light">#ff33b5e5</color>
+    <color name="wallet_link_text_light">#0000ee</color>
+    <!-- From: file:/home/noah/atipitaka-old/tipitaka/build/intermediates/exploded-aar/com.google.android.gms/play-services/5.2.08/res/values/admob_ads_attrs.xml -->
+    <eat-comment />
+
+    <declare-styleable name="AdsAttrs">
+
+        <!--
+    The size of the ad. It must be one of BANNER, FULL_BANNER, LEADERBOARD,
+    MEDIUM_RECTANGLE, SMART_BANNER, WIDE_SKYSCRAPER, or
+    &lt;width&gt;x&lt;height&gt;.
+        -->
+        <attr name="adSize" format="string" />
+
+        <!--
+    A comma-separated list of the supported ad sizes. The sizes must be one of
+    BANNER, FULL_BANNER, LEADERBOARD, MEDIUM_RECTANGLE, SMART_BANNER,
+    WIDE_SKYSCRAPER, or &lt;width&gt;x&lt;height&gt;.
+        -->
+        <attr name="adSizes" format="string" />
+
+        <!-- The ad unit ID. -->
+        <attr name="adUnitId" format="string" />
+    </declare-styleable>
+    <!-- From: file:/home/noah/atipitaka-old/tipitaka/build/intermediates/exploded-aar/atipitaka-old/colorPickerView/unspecified/res/values/values.xml -->
+    <eat-comment />
+
+    <declare-styleable name="ColorPickerPreference">
+        <attr name="showDialogTitle" format="boolean|reference" />
+        <attr name="showSelectedColorInList" format="boolean|reference" />
+    </declare-styleable>
+    <declare-styleable name="ColorPickerView">
+        <attr name="alphaChannelVisible" format="boolean|reference" />
+        <attr name="alphaChannelText" format="string|reference" />
+        <attr name="colorPickerSliderColor" format="color|reference" />
+        <attr name="colorPickerBorderColor" format="color|reference" />
+    </declare-styleable>
+    <!-- From: file:/home/noah/atipitaka-old/tipitaka/build/intermediates/exploded-aar/com.google.android.gms/play-services/5.2.08/res/values/maps_attrs.xml -->
+    <eat-comment />
+
+    <declare-styleable name="MapAttrs">
+        <attr name="mapType" format="enum">
+            <enum name="none" value="0" />
+            <enum name="normal" value="1" />
+            <enum name="satellite" value="2" />
+            <enum name="terrain" value="3" />
+            <enum name="hybrid" value="4" />
+        </attr>
+        <attr name="cameraBearing" format="float" />
+        <attr name="cameraTargetLat" format="float" />
+        <attr name="cameraTargetLng" format="float" />
+        <attr name="cameraTilt" format="float" />
+        <attr name="cameraZoom" format="float" />
+        <attr name="uiCompass" format="boolean" />
+        <attr name="uiRotateGestures" format="boolean" />
+        <attr name="uiScrollGestures" format="boolean" />
+        <attr name="uiTiltGestures" format="boolean" />
+        <attr name="uiZoomControls" format="boolean" />
+        <attr name="uiZoomGestures" format="boolean" />
+        <attr name="useViewLifecycle" format="boolean" />
+        <attr name="zOrderOnTop" format="boolean" />
+    </declare-styleable>
+    <!-- From: file:/home/noah/atipitaka-old/tipitaka/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml -->
+    <eat-comment />
+
+    <declare-styleable name="SherlockActionBar">
+
+        <!-- The type of navigation to use. -->
+        <attr name="navigationMode">
+
+            <!-- Normal static title text -->
+            <enum name="normal" value="0" />
+            <!-- The action bar will use a selection list for navigation. -->
+            <enum name="listMode" value="1" />
+            <!-- The action bar will use a series of horizontal tabs for navigation. -->
+            <enum name="tabMode" value="2" />
+        </attr>
+        <!-- Options affecting how the action bar is displayed. -->
+        <attr name="displayOptions">
+            <flag name="useLogo" value="0x1" />
+            <flag name="showHome" value="0x2" />
+            <flag name="homeAsUp" value="0x4" />
+            <flag name="showTitle" value="0x8" />
+            <flag name="showCustom" value="0x10" />
+            <flag name="disableHome" value="0x20" />
+        </attr>
+        <!-- Specifies title text used for navigationMode="normal" -->
+        <attr name="title" format="string" />
+        <!-- Specifies subtitle text used for navigationMode="normal" -->
+        <attr name="subtitle" format="string" />
+        <!-- Specifies a style to use for title text. -->
+        <attr name="titleTextStyle" />
+        <!-- Specifies a style to use for subtitle text. -->
+        <attr name="subtitleTextStyle" />
+        <!-- Specifies the drawable used for the application icon. -->
+        <attr name="icon" format="reference" />
+        <!-- Specifies the drawable used for the application logo. -->
+        <attr name="logo" format="reference" />
+        <!-- Specifies the drawable used for item dividers. -->
+        <attr name="divider" />
+        <!-- Specifies a background drawable for the action bar. -->
+        <attr name="background" />
+        <!-- Specifies a background drawable for a second stacked row of the action bar. -->
+        <attr name="backgroundStacked" format="reference|color" />
+        <!-- Specifies a background drawable for the bottom component of a split action bar. -->
+        <attr name="backgroundSplit" />
+        <!-- Specifies a layout for custom navigation. Overrides navigationMode. -->
+        <attr name="customNavigationLayout" format="reference" />
+        <!-- Specifies a fixed height. -->
+        <attr name="height" />
+        <!-- Specifies a layout to use for the "home" section of the action bar. -->
+        <attr name="homeLayout" format="reference" />
+        <!-- Specifies a style resource to use for an embedded progress bar. -->
+        <attr name="progressBarStyle" format="reference" />
+        <!-- Specifies a style resource to use for an indeterminate progress spinner. -->
+        <attr name="indeterminateProgressStyle" format="reference" />
+        <!-- Specifies the horizontal padding on either end for an embedded progress bar. -->
+        <attr name="progressBarPadding" format="dimension" />
+        <!--
+             Specifies padding that should be applied to the left and right sides of
+             system-provided items in the bar.
+        -->
+        <attr name="itemPadding" format="dimension" />
+    </declare-styleable>
+    <declare-styleable name="SherlockActionMenuItemView">
+        <attr name="android:minWidth" />
+    </declare-styleable>
+    <declare-styleable name="SherlockActionMode">
+
+        <!-- Specifies a style to use for title text. -->
+        <attr name="titleTextStyle" />
+        <!-- Specifies a style to use for subtitle text. -->
+        <attr name="subtitleTextStyle" />
+        <!-- Specifies a background for the action mode bar. -->
+        <attr name="background" />
+        <!-- Specifies a background for the split action mode bar. -->
+        <attr name="backgroundSplit" />
+        <!-- Specifies a fixed height for the action mode bar. -->
+        <attr name="height" />
+    </declare-styleable>
+    <declare-styleable name="SherlockActivityChooserView">
+
+        <!-- The maximal number of items initially shown in the activity list. -->
+        <attr name="initialActivityCount" format="string" />
+        <!--
+             The drawable to show in the button for expanding the activities overflow popup.
+             <strong>Note:</strong> Clients would like to set this drawable
+             as a clue about the action the chosen activity will perform. For
+             example, if share activity is to be chosen the drawable should
+             give a clue that sharing is to be performed.
+        -->
+        <attr name="expandActivityOverflowButtonDrawable" format="reference" />
+        <attr name="android:background" />
+    </declare-styleable>
+    <declare-styleable name="SherlockMenuGroup">
+
+        <!-- The ID of the group. -->
+        <attr name="android:id" />
+
+        <!--
+             The category applied to all items within this group.
+             (This will be or'ed with the orderInCategory attribute.)
+        -->
+        <attr name="android:menuCategory" />
+
+        <!--
+             The order within the category applied to all items within this group.
+             (This will be or'ed with the category attribute.)
+        -->
+        <attr name="android:orderInCategory" />
+
+        <!-- Whether the items are capable of displaying a check mark. -->
+        <attr name="android:checkableBehavior" />
+
+        <!-- Whether the items are shown/visible. -->
+        <attr name="android:visible" />
+
+        <!-- Whether the items are enabled. -->
+        <attr name="android:enabled" />
+    </declare-styleable>
+    <declare-styleable name="SherlockMenuItem">
+
+        <!-- The ID of the item. -->
+        <attr name="android:id" />
+
+        <!--
+             The category applied to the item.
+             (This will be or'ed with the orderInCategory attribute.)
+        -->
+        <attr name="android:menuCategory" />
+
+        <!--
+             The order within the category applied to the item.
+             (This will be or'ed with the category attribute.)
+        -->
+        <attr name="android:orderInCategory" />
+
+        <!-- The title associated with the item. -->
+        <attr name="android:title" />
+
+        <!--
+             The condensed title associated with the item.  This is used in situations where the
+             normal title may be too long to be displayed.
+        -->
+        <attr name="android:titleCondensed" />
+
+        <!--
+             The icon associated with this item.  This icon will not always be shown, so
+             the title should be sufficient in describing this item.
+        -->
+        <attr name="android:icon" />
+
+        <!--
+             The alphabetic shortcut key.  This is the shortcut when using a keyboard
+             with alphabetic keys.
+        -->
+        <attr name="android:alphabeticShortcut" />
+
+        <!--
+             The numeric shortcut key.  This is the shortcut when using a numeric (e.g., 12-key)
+             keyboard.
+        -->
+        <attr name="android:numericShortcut" />
+
+        <!-- Whether the item is capable of displaying a check mark. -->
+        <attr name="android:checkable" />
+
+        <!--
+             Whether the item is checked.  Note that you must first have enabled checking with
+             the checkable attribute or else the check mark will not appear.
+        -->
+        <attr name="android:checked" />
+
+        <!-- Whether the item is shown/visible. -->
+        <attr name="android:visible" />
+
+        <!-- Whether the item is enabled. -->
+        <attr name="android:enabled" />
+
+        <!--
+             Name of a method on the Context used to inflate the menu that will be
+             called when the item is clicked.
+        -->
+        <attr name="android:onClick" />
+
+        <!-- How this item should display in the Action Bar, if present. -->
+        <attr name="android:showAsAction" />
+
+        <!--
+             An optional layout to be used as an action view.
+             See {@link android.view.MenuItem#setActionView(android.view.View)}
+             for more info.
+        -->
+        <attr name="android:actionLayout" />
+
+        <!--
+             The name of an optional View class to instantiate and use as an
+             action view. See {@link android.view.MenuItem#setActionView(android.view.View)}
+             for more info.
+        -->
+        <attr name="android:actionViewClass" />
+
+        <!--
+             The name of an optional ActionProvider class to instantiate an action view
+             and perform operations such as default action for that menu item.
+             See {@link android.view.MenuItem#setActionProvider(android.view.ActionProvider)}
+             for more info.
+        -->
+        <attr name="android:actionProviderClass" />
+    </declare-styleable>
+    <declare-styleable name="SherlockMenuView">
+
+        <!-- Default appearance of menu item text. -->
+        <attr name="itemTextAppearance" format="reference" />
+        <!-- Default horizontal divider between rows of menu items. -->
+        <attr name="horizontalDivider" format="reference" />
+        <!-- Default vertical divider between menu items. -->
+        <attr name="verticalDivider" format="reference" />
+        <!-- Default background for the menu header. -->
+        <attr name="headerBackground" format="color|reference" />
+        <!-- Default background for each menu item. -->
+        <attr name="itemBackground" format="color|reference" />
+        <!-- Default animations for the menu. -->
+        <attr name="windowAnimationStyle" format="reference" />
+        <!-- Default disabled icon alpha for each menu item that shows an icon. -->
+        <attr name="itemIconDisabledAlpha" format="float" />
+        <!-- Whether space should be reserved in layout when an icon is missing. -->
+        <attr name="preserveIconSpacing" format="boolean" />
+    </declare-styleable>
+    <declare-styleable name="SherlockSearchView">
+
+        <!--
+             The default state of the SearchView. If true, it will be iconified when not in
+             use and expanded when clicked.
+        -->
+        <attr name="iconifiedByDefault" format="boolean" />
+        <!-- An optional maximum width of the SearchView. -->
+        <attr name="android:maxWidth" />
+        <!-- An optional query hint string to be displayed in the empty query field. -->
+        <attr name="queryHint" format="string" />
+        <!-- The IME options to set on the query text field. -->
+        <attr name="android:imeOptions" />
+        <!-- The input type to set on the query text field. -->
+        <attr name="android:inputType" />
+    </declare-styleable>
+    <declare-styleable name="SherlockSpinner">
+
+        <!-- The prompt to display when the spinner's dialog is shown. -->
+        <attr name="android:prompt" />
+        <!-- List selector to use for spinnerMode="dropdown" display. -->
+        <attr name="android:dropDownSelector" />
+        <!-- Background drawable to use for the dropdown in spinnerMode="dropdown". -->
+        <attr name="android:popupBackground" />
+        <!--
+             Vertical offset from the spinner widget for positioning the dropdown in
+             spinnerMode="dropdown".
+        -->
+        <attr name="android:dropDownVerticalOffset" />
+        <!--
+             Horizontal offset from the spinner widget for positioning the dropdown
+             in spinnerMode="dropdown".
+        -->
+        <attr name="android:dropDownHorizontalOffset" />
+        <!-- Width of the dropdown in spinnerMode="dropdown". -->
+        <attr name="android:dropDownWidth" />
+        <!--
+             Reference to a layout to use for displaying a prompt in the dropdown for
+             spinnerMode="dropdown". This layout must contain a TextView with the id
+             @android:id/text1 to be populated with the prompt text.
+        -->
+        <attr name="android:popupPromptView" />
+        <!-- Gravity setting for positioning the currently selected item. -->
+        <attr name="android:gravity" />
+    </declare-styleable>
+    <declare-styleable name="SherlockTheme">
+
+        <!-- =================== -->
+        <!-- Action bar styles -->
+        <!-- =================== -->
+        <eat-comment />
+        <!-- Default style for tabs within an action bar -->
+        <attr name="actionBarTabStyle" format="reference" />
+        <attr name="actionBarTabBarStyle" format="reference" />
+        <attr name="actionBarTabTextStyle" format="reference" />
+        <attr name="actionOverflowButtonStyle" format="reference" />
+        <!-- Reference to a style for the Action Bar -->
+        <attr name="actionBarStyle" format="reference" />
+        <!--
+             Reference to a style for the split Action Bar. This style
+             controls the split component that holds the menu/action
+             buttons. actionBarStyle is still used for the primary
+             bar.
+        -->
+        <attr name="actionBarSplitStyle" format="reference" />
+        <!--
+             Reference to a theme that should be used to inflate widgets
+             and layouts destined for the action bar. Most of the time
+             this will be a reference to the current theme, but when
+             the action bar has a significantly different contrast
+             profile than the rest of the activity the difference
+             can become important. If this is set to @null the current
+             theme will be used.
+        -->
+        <attr name="actionBarWidgetTheme" format="reference" />
+        <!--
+             Size of the Action Bar, including the contextual
+             bar used to present Action Modes.
+        -->
+        <attr name="actionBarSize" format="dimension">
+            <enum name="wrap_content" value="0" />
+        </attr>
+        <!-- Custom divider drawable to use for elements in the action bar. -->
+        <attr name="actionBarDivider" format="reference" />
+        <!-- Custom item state list drawable background for action bar items. -->
+        <attr name="actionBarItemBackground" format="reference" />
+        <!--
+             TextAppearance style that will be applied to text that
+             appears within action menu items.
+        -->
+        <attr name="actionMenuTextAppearance" format="reference" />
+        <!-- Color for text that appears within action menu items. -->
+        <attr name="actionMenuTextColor" format="color|reference" />
+
+        <!-- =================== -->
+        <!-- Action mode styles -->
+        <!-- =================== -->
+        <eat-comment />
+
+        <attr name="actionModeStyle" format="reference" />
+        <attr name="actionModeCloseButtonStyle" format="reference" />
+        <!-- Background drawable to use for action mode UI -->
+        <attr name="actionModeBackground" format="reference" />
+        <!-- Background drawable to use for action mode UI in the lower split bar -->
+        <attr name="actionModeSplitBackground" format="reference" />
+        <!-- Drawable to use for the close action mode button -->
+        <attr name="actionModeCloseDrawable" format="reference" />
+        <!-- Drawable to use for the Share action button in WebView selection action modes -->
+        <attr name="actionModeShareDrawable" format="reference" />
+
+        <!-- PopupWindow style to use for action modes when showing as a window overlay. -->
+        <attr name="actionModePopupWindowStyle" format="reference" />
+
+        <!-- ============= -->
+        <!-- Button styles -->
+        <!-- ============= -->
+        <eat-comment />
+
+        <!-- Small Button style. -->
+        <attr name="buttonStyleSmall" format="reference" />
+
+        <!-- Background drawable for standalone items that need focus/pressed states. -->
+        <attr name="selectableItemBackground" format="reference" />
+
+        <!--
+             This Drawable is overlaid over the foreground of the Window's content area, usually
+             to place a shadow below the title.
+        -->
+        <attr name="windowContentOverlay" format="reference" />
+
+        <!-- Text color, typeface, size, and style for the text inside of a popup menu. -->
+        <attr name="textAppearanceLargePopupMenu" format="reference" />
+
+        <!-- Text color, typeface, size, and style for small text inside of a popup menu. -->
+        <attr name="textAppearanceSmallPopupMenu" format="reference" />
+
+        <!-- Text color, typeface, size, and style for "small" text. Defaults to secondary text color. -->
+        <attr name="textAppearanceSmall" format="reference" />
+        <attr name="textColorPrimary" format="color" />
+        <attr name="textColorPrimaryDisableOnly" format="color" />
+        <attr name="textColorPrimaryInverse" format="color" />
+        <attr name="spinnerItemStyle" format="reference" />
+        <attr name="spinnerDropDownItemStyle" format="reference" />
+
+        <!-- ============================ -->
+        <!-- SearchView styles and assets -->
+        <!-- ============================ -->
+        <eat-comment />
+        <!-- SearchView AutoCompleteTextView style -->
+        <attr name="searchAutoCompleteTextView" format="reference" />
+        <!-- SearchView dropdown background -->
+        <attr name="searchDropdownBackground" format="reference" />
+        <!-- SearchView close button icon -->
+        <attr name="searchViewCloseIcon" format="reference" />
+        <!-- SearchView Go button icon -->
+        <attr name="searchViewGoIcon" format="reference" />
+        <!-- SearchView Search icon -->
+        <attr name="searchViewSearchIcon" format="reference" />
+        <!-- SearchView Voice button icon -->
+        <attr name="searchViewVoiceIcon" format="reference" />
+        <!-- SearchView query refinement icon -->
+        <attr name="searchViewEditQuery" format="reference" />
+        <!-- SearchView query refinement icon background -->
+        <attr name="searchViewEditQueryBackground" format="reference" />
+        <!-- SearchView text field background for the left section -->
+        <attr name="searchViewTextField" format="reference" />
+        <!-- SearchView text field background for the right section -->
+        <attr name="searchViewTextFieldRight" format="reference" />
+        <!-- Text color for urls in search suggestions, used by things like global search and the browser. @hide -->
+        <attr name="textColorSearchUrl" format="reference|color" />
+        <!-- The list item height for search results. @hide -->
+        <attr name="searchResultListItemHeight" format="dimension" />
+        <!-- Text color, typeface, size, and style for system search result title. Defaults to primary inverse text color. -->
+        <attr name="textAppearanceSearchResultTitle" format="reference" />
+        <!-- Text color, typeface, size, and style for system search result subtitle. Defaults to primary inverse text color. -->
+        <attr name="textAppearanceSearchResultSubtitle" format="reference" />
+
+        <!-- =========== -->
+        <!-- List styles -->
+        <!-- =========== -->
+        <eat-comment />
+
+        <!-- A smaller, sleeker list item height. -->
+        <attr name="listPreferredItemHeightSmall" format="dimension" />
+
+        <!-- The preferred padding along the left edge of list items. -->
+        <attr name="listPreferredItemPaddingLeft" format="dimension" />
+        <!-- The preferred padding along the right edge of list items. -->
+        <attr name="listPreferredItemPaddingRight" format="dimension" />
+
+        <!-- The preferred TextAppearance for the primary text of small list items. -->
+        <attr name="textAppearanceListItemSmall" format="reference" />
+        <attr name="windowMinWidthMajor" format="dimension" />
+        <attr name="windowMinWidthMinor" format="dimension" />
+
+        <!-- Drawable to use for generic vertical dividers. -->
+        <attr name="dividerVertical" format="reference" />
+        <attr name="actionDropDownStyle" format="reference" />
+        <attr name="actionButtonStyle" format="reference" />
+        <attr name="homeAsUpIndicator" format="reference" />
+        <attr name="dropDownListViewStyle" format="reference" />
+        <attr name="popupMenuStyle" format="reference" />
+        <attr name="dropdownListPreferredItemHeight" format="dimension" />
+        <attr name="actionSpinnerItemStyle" format="reference" />
+        <attr name="windowNoTitle" format="boolean" />
+        <attr name="windowActionBar" format="boolean" />
+        <attr name="windowActionBarOverlay" format="boolean" />
+        <attr name="windowActionModeOverlay" format="boolean" />
+        <attr name="windowSplitActionBar" format="boolean" />
+        <attr name="listPopupWindowStyle" format="reference" />
+
+        <!-- Default ActivityChooserView style. -->
+        <attr name="activityChooserViewStyle" format="reference" />
+        <!-- Drawable used as a background for activated items. -->
+        <attr name="activatedBackgroundIndicator" format="reference" />
+        <attr name="dropDownHintAppearance" format="reference" />
+    </declare-styleable>
+    <declare-styleable name="SherlockView">
+        <attr name="android:focusable" />
+    </declare-styleable>
+    <!-- From: file:/home/noah/atipitaka-old/tipitaka/build/intermediates/exploded-aar/atipitaka-old/slidingMenu/unspecified/res/values/values.xml -->
+    <eat-comment />
+
+    <declare-styleable name="SlidingMenu">
+        <attr name="mode">
+            <enum name="left" value="0" />
+            <enum name="right" value="1" />
+        </attr>
+        <attr name="viewAbove" format="reference" />
+        <attr name="viewBehind" format="reference" />
+        <attr name="behindOffset" format="dimension" />
+        <attr name="behindWidth" format="dimension" />
+        <attr name="behindScrollScale" format="float" />
+        <attr name="touchModeAbove">
+            <enum name="margin" value="0" />
+            <enum name="fullscreen" value="1" />
+        </attr>
+        <attr name="touchModeBehind">
+            <enum name="margin" value="0" />
+            <enum name="fullscreen" value="1" />
+        </attr>
+        <attr name="shadowDrawable" format="reference" />
+        <attr name="shadowWidth" format="dimension" />
+        <attr name="fadeEnabled" format="boolean" />
+        <attr name="fadeDegree" format="float" />
+        <attr name="selectorEnabled" format="boolean" />
+        <attr name="selectorDrawable" format="reference" />
+    </declare-styleable>
+    <!-- From: file:/home/noah/atipitaka-old/tipitaka/build/intermediates/exploded-aar/com.google.android.gms/play-services/5.2.08/res/values/wallet_attrs.xml -->
+    <eat-comment />
+
+    <declare-styleable name="WalletFragmentOptions">
+
+        <!-- Theme to be used for the Wallet selector -->
+        <attr name="theme" format="enum">
+            <enum name="holo_dark" value="0" />
+            <enum name="holo_light" value="1" />
+        </attr>
+        <!-- Google Wallet environment to use -->
+        <attr name="environment" format="enum">
+            <enum name="production" value="1" />
+            <enum name="sandbox" value="0" />
+            <enum name="strict_sandbox" value="2" />
+        </attr>
+        <!-- A style resource specifing attributes to customize the look and feel of WalletFragment -->
+        <attr name="fragmentStyle" format="reference" />
+        <!-- Fragment mode -->
+        <attr name="fragmentMode" format="enum">
+            <enum name="buyButton" value="1" />
+            <enum name="selectionDetails" value="2" />
+        </attr>
+    </declare-styleable>
+    <declare-styleable name="WalletFragmentStyle">
+
+        <!--
+             Height of the buy button. This includes an 8dp padding (4dp on each side) used for
+             pressed and focused states of the button. The value can be a specific height, e.g.
+             "48dp", or special values "match_parent" and "wrap_content".
+        -->
+        <attr name="buyButtonHeight" format="dimension">
+            <enum name="match_parent" value="-1" />
+            <enum name="wrap_content" value="-2" />
+        </attr>
+        <!--
+             Width of the buy button. This includes an 8dp padding (4dp on each side) used for
+             pressed and focused states of the button. The value can be a specific width, e.g.
+             "300dp", or special values "match_parent" and "wrap_content".
+        -->
+        <attr name="buyButtonWidth" format="dimension">
+            <enum name="match_parent" value="-1" />
+            <enum name="wrap_content" value="-2" />
+        </attr>
+        <!-- Text on the buy button. Must be one of "buy_with_google", "buy_now" and "book_now" -->
+        <attr name="buyButtonText" format="enum">
+            <enum name="buy_with_google" value="1" />
+            <enum name="buy_now" value="2" />
+            <enum name="book_now" value="3" />
+        </attr>
+        <!-- Appearance of the buy button. Must be one of "classic", "grayscale" and "monochrome" -->
+        <attr name="buyButtonAppearance" format="enum">
+            <enum name="classic" value="1" />
+            <enum name="grayscale" value="2" />
+            <enum name="monochrome" value="3" />
+        </attr>
+        <!-- TextAppearance for masked wallet details -->
+        <attr name="maskedWalletDetailsTextAppearance" format="reference" />
+        <!-- TextAppearance for headers describing masked wallet details -->
+        <attr name="maskedWalletDetailsHeaderTextAppearance" format="reference" />
+        <!-- Masked wallet details background -->
+        <attr name="maskedWalletDetailsBackground" format="reference|color" />
+        <!-- TextAppearance for the "Change" button in masked wallet details view -->
+        <attr name="maskedWalletDetailsButtonTextAppearance" format="reference" />
+        <!-- "Change" button background in masked wallet details view -->
+        <attr name="maskedWalletDetailsButtonBackground" format="reference|color" />
+        <!-- Color of the Google Wallet logo text in masked wallet details view -->
+        <attr name="maskedWalletDetailsLogoTextColor" format="color" />
+        <!-- Type of the wallet logo image in masked wallet details view -->
+        <attr name="maskedWalletDetailsLogoImageType" format="enum">
+            <enum name="classic" value="1" />
+            <enum name="monochrome" value="2" />
+        </attr>
+    </declare-styleable>
+    <!-- From: file:/home/noah/atipitaka-old/tipitaka/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml -->
+    <eat-comment />
+
+    <dimen name="abs__action_bar_default_height">48dip</dimen>
+    <dimen name="abs__action_bar_icon_vertical_padding">8dip</dimen>
+    <dimen name="abs__action_bar_subtitle_bottom_margin">5dip</dimen>
+    <dimen name="abs__action_bar_subtitle_text_size">14dp</dimen>
+    <dimen name="abs__action_bar_subtitle_top_margin">-3dp</dimen>
+    <dimen name="abs__action_bar_title_text_size">18dp</dimen>
+    <dimen name="abs__action_button_min_width">56dip</dimen>
+    <dimen name="abs__config_prefDialogWidth">320dp</dimen>
+    <dimen name="abs__dropdownitem_icon_width">32dip</dimen>
+    <dimen name="abs__dropdownitem_text_padding_left">8dip</dimen>
+    <dimen name="abs__dropdownitem_text_padding_right">8dip</dimen>
+    <dimen name="abs__search_view_preferred_width">320dip</dimen>
+    <dimen name="abs__search_view_text_min_width">160dip</dimen>
+    <!-- From: file:/home/noah/atipitaka-old/tipitaka/src/main/res/values/dimen.xml -->
+    <eat-comment />
+
+    <dimen name="left600">250dp</dimen>
+    <dimen name="left800">320dp</dimen>
+    <dimen name="slide_width">320dp</dimen>
+    <!-- From: file:/home/noah/atipitaka-old/tipitaka/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml -->
+    <eat-comment />
+
+    <item name="abs__action_menu_divider" type="id"/>
+    <item name="abs__action_menu_presenter" type="id"/>
+    <item name="abs__home" type="id"/>
+    <item name="abs__progress_circular" type="id"/>
+    <item name="abs__progress_horizontal" type="id"/>
+    <item name="abs__up" type="id"/>
+    <!-- From: file:/home/noah/atipitaka-old/tipitaka/build/intermediates/exploded-aar/atipitaka-old/colorPickerView/unspecified/res/values/values.xml -->
+    <eat-comment />
+
+    <item name="color_panel_new" type="id"/>
+    <item name="color_panel_old" type="id"/>
+    <item name="color_picker_view" type="id"/>
+    <item name="dialog_color_picker_extra_layout_landscape" type="id"/>
+    <item name="preference_preview_color_panel" type="id"/>
+    <!-- From: file:/home/noah/atipitaka-old/tipitaka/build/intermediates/exploded-aar/atipitaka-old/slidingMenu/unspecified/res/values/values.xml -->
+    <eat-comment />
+
+    <item name="selected_view" type="id"/>
+    <!-- From: file:/home/noah/atipitaka-old/tipitaka/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml -->
+    <eat-comment />
+
+    <integer name="abs__max_action_buttons">2</integer>
+    <!-- From: file:/home/noah/atipitaka-old/tipitaka/build/intermediates/exploded-aar/com.google.android.gms/play-services/5.2.08/res/values/version.xml -->
+    <eat-comment />
+
+    <integer name="google_play_services_version">5208000</integer>
+    <!-- From: file:/home/noah/atipitaka-old/tipitaka/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="CEPD">Concise English-Pali</string>
+    <string name="CPED">Concise Pali-English</string>
+    <string name="DPPN">Pali Proper Names</string>
+    <string name="MULTI">Pali Combined</string>
+    <string name="PED">Full Pali-English</string>
+    <string name="abhi">Abhidhamma</string>
+    <string name="abhi_full">Abhidhamma Pitaka</string>
+    <string name="about">About</string>
+    <string name="about_content_1">This program is based on the free and open source E-Tipitaka project by Sutee Sudprasert:</string>
+    <string name="about_content_2"><a href="https://github.com/ssutee/E-Tipitaka-for-Android">https://github.com/ssutee/E-Tipitaka-for-Android</a></string>
+    <string name="about_content_3">Tipitaka files are taken from the VRI tipitaka here:</string>
+    <string name="about_content_4"><a href="http://tipitaka.org/romn/">http://tipitaka.org/romn/</a></string>
+    <!-- From: file:/home/noah/atipitaka-old/tipitaka/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml -->
+    <eat-comment />
+
+    <string name="abs__action_bar_home_description">Navigate home</string>
+    <string name="abs__action_bar_up_description">Navigate up</string>
+    <string name="abs__action_menu_overflow_description">More options</string>
+    <string name="abs__action_mode_done">Done</string>
+    <string name="abs__activity_chooser_view_see_all">See all...</string>
+    <string name="abs__activitychooserview_choose_application">Choose an application</string>
+    <string name="abs__searchview_description_clear">Clear query</string>
+    <string name="abs__searchview_description_query">Search query</string>
+    <string name="abs__searchview_description_search">Search</string>
+    <string name="abs__searchview_description_submit">Submit query</string>
+    <string name="abs__searchview_description_voice">Voice search</string>
+    <string name="abs__shareactionprovider_share_with">Share with</string>
+    <string name="abs__shareactionprovider_share_with_application">Share with <ns1:g id="application_name" example="Bluetooth">%s</ns1:g></string>
+    <!-- From: file:/home/noah/atipitaka-old/tipitaka/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="all">all</string>
+    <string name="app_name">Android Tipitaka</string>
+    <string name="asc">Ascending</string>
+    <string name="assign">Assign</string>
+    <string name="assign_priority">Assign priority</string>
+    <string name="ati_error">Error downloading archive</string>
+    <string name="ati_not_found">Download Archive</string>
+    <string name="ati_version">Getting latest version…</string>
+    <string name="att_full">Aṭṭhakathā</string>
+    <string name="between_item">From paragraph</string>
+    <string name="between_page">From section</string>
+    <string name="bookmark">Bookmarks</string>
+    <string name="bookmark_page">Android Tipitaka - Bookmarks</string>
+    <string name="cancel">Cancel</string>
+    <string name="cannot_write">Unable to write database</string>
+    <string name="change_lang">Change Language</string>
+    <string name="change_language">Change language</string>
+    <string name="check_your_connection">Please check your data connection and try again.</string>
+    <string name="choose_dict">Choose A Dictionary:</string>
+    <string name="clear_history">Clear history</string>
+    <string name="code">Code</string>
+    <string name="collection">Collection</string>
+    <!-- From: file:/home/noah/atipitaka-old/tipitaka/build/intermediates/exploded-aar/com.google.android.gms/play-services/5.2.08/res/values/common_strings.xml -->
+    <eat-comment />
+
+    <string name="common_google_play_services_enable_button" msgid="2523291102206661146">Enable Google Play services</string>
+    <string name="common_google_play_services_enable_text" msgid="227660514972886228">This app won\'t work unless you enable Google Play services.</string>
+    <string name="common_google_play_services_enable_title" msgid="5122002158466380389">Enable Google Play services</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Requested by <ns1:g id="app_name">%1$s</ns1:g></string>
+    <string name="common_google_play_services_install_button" msgid="7153882981874058840">Get Google Play services</string>
+    <string name="common_google_play_services_install_text_phone" msgid="2122112764540849864">This app won\'t run without Google Play services, which are missing from your phone.</string>
+    <string name="common_google_play_services_install_text_tablet" msgid="7351599665250191022">This app won\'t run without Google Play services, which are missing from your tablet.</string>
+    <string name="common_google_play_services_install_title" msgid="7215213145546190223">Get Google Play services</string>
+    <string name="common_google_play_services_invalid_account_text">The specified account does not exist on this device. Please choose a different account.</string>
+    <string name="common_google_play_services_invalid_account_title">Invalid Account</string>
+    <string name="common_google_play_services_needs_enabling_title">An application requires Google Play services to be enabled.</string>
+    <string name="common_google_play_services_network_error_text">A data connection is required to connect to Google Play services.</string>
+    <string name="common_google_play_services_network_error_title">Network Error</string>
+    <string name="common_google_play_services_notification_needs_installation_title">An application requires installation of Google Play services.</string>
+    <string name="common_google_play_services_notification_needs_update_title">An application requires an update for Google Play services.</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">Unknown issue with Google Play services.</string>
+    <string name="common_google_play_services_unsupported_date_text">The date on the device appears to be incorrect. Please check the date on the device.</string>
+    <string name="common_google_play_services_unsupported_text">Google Play services, which some of your applications rely on, is not supported by your device. Please contact the manufacturer for assistance.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play services</string>
+    <string name="common_google_play_services_update_button" msgid="6556509956452265614">Update</string>
+    <string name="common_google_play_services_update_text" msgid="9053896323427875356">This app won\'t run unless you update Google Play services.</string>
+    <string name="common_google_play_services_update_title" msgid="1788179980625863495">Update Google Play services</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <!-- From: file:/home/noah/atipitaka-old/tipitaka/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="compare">Compare</string>
+    <string name="confirm_clear_history">Are you sure you want to clear the history?</string>
+    <string name="confirm_command">Continue?</string>
+    <string name="confirm_delete_item">Are you sure you want to delete the bookmark?</string>
+    <string name="confirm_delete_memo">Confirm delete bookmark?</string>
+    <string name="confirm_download">The database is either missing or out-of-date.  Do you want to download the latest database?</string>
+    <string name="confirm_download_ati">Do you want to download the latest AccessToInsight archive?  If you already have it, put the ati_website directory in your sdcard and retry.</string>
+    <string name="confirm_overwrite">Overwrite existing file?</string>
+    <string name="confirm_recompute_priority">Confirm priority change?</string>
+    <string name="confirm_unread_all_items">Set all items as unread?</string>
+    <string name="correct">Correct!</string>
+    <string name="data_not_found">Data not found</string>
+    <string name="db_not_found">Database not found</string>
+    <string name="delete">Delete</string>
+    <string name="delete_item">Delete bookmark</string>
+    <string name="delete_memo">Delete bookmark</string>
+    <string name="deleted_memo">Bookmark deleted</string>
+    <string name="desc">Descending</string>
+    <string name="dict">Dictionaries</string>
+    <string name="dict_title">Android Tipitaka - Dictionaries</string>
+    <string name="dictionary">Dictionary</string>
+    <string name="downloading">Downloading</string>
+    <string name="duplicated_item">Item already saved</string>
+    <string name="edit">Edit</string>
+    <string name="edit_n_suts">Edit number of suttas</string>
+    <string name="edit_note">Edit name</string>
+    <string name="english">English</string>
+    <string name="english_page">Android Tipitaka - ATI</string>
+    <string name="enter_a_to_z">A-Z</string>
+    <string name="enter_item">Enter para. no.</string>
+    <string name="enter_n_suts">Enter number of suttas</string>
+    <string name="enter_note">Enter bookmark name</string>
+    <string name="enter_page">Enter section no.</string>
+    <string name="enter_pali">Enter Pali</string>
+    <string name="enter_position">Enter position</string>
+    <string name="enter_priority">Enter priority</string>
+    <string name="enter_query">Enter search query</string>
+    <string name="enter_thai">Enter Thai</string>
+    <string name="error_found">Error found</string>
+    <string name="etc_full">Et Cetera</string>
+    <string name="export_info">Move database to SD card</string>
+    <string name="export_success">Database moved to internal storage</string>
+    <string name="file_exists">File already exists</string>
+    <string name="find">Find in page</string>
+    <string name="find_pali">Search Pali</string>
+    <string name="find_thai">Search Thai</string>
+    <string name="finish">Finished</string>
+    <string name="freq_format">(%s times)</string>
+    <string name="go_att">Go To Att</string>
+    <string name="go_mul">Go To Mula</string>
+    <string name="go_tik">Go to Tika</string>
+    <string name="goto_item">Go to paragraph</string>
+    <string name="goto_page">Go to section</string>
+    <string name="goto_position">Go to position</string>
+    <string name="goto_result_position">Go to result position</string>
+    <string name="help">Help</string>
+    <string name="help_content_1"><b>Home Screen:</b> Select one of the sets and a hierarchy level at the top, then click on a volume name to open the volume.  </string>
+    <string name="help_content_2"><b>Reading:</b> Once a volume is open, it will initially show an index which is opened and closed using the "Index" menu item.  Navigate to a section by clicking on an index entry.  When reading a section, swiping a finger left or right across the text moves backwards or forwards in the sections.  Highlighting a word (only available in later versions of Android) causes a "Dictionaries" button to appear, which allows to look up a word in the dictionaries, which recognize declensions as well.  Bookmark using the "Bookmark" button when viewing a section.</string>
+    <string name="help_content_3"><b>Search:</b> The search button allows you to search for a word or phrase in selected texts; use the Velthuis scheme (e.g. "aa", ".t", etc.) for diacritics.</string>
+    <string name="help_content_4"><b>Dictionaries:</b> Four dictionaries are included in the Android Tipitaka, the PED, the CPED, the CEPD and the DPPN.  Use the Velthuis scheme to look up words starting with a string (use * for wildcards within or at the beginning of the word).  If no match is found, the app will check for base words from declensions (e.g. searching for "buddho" will give a definition of "buddha").</string>
+    <string name="help_content_5"><b>English (ATI):</b> Android Tipitaka can incorporate the offline archive from Access to Insight (<a href="http://www.accesstoinsight.org/tech/download/bulk/bulk.html">http://www.accesstoinsight.org/tech/download/bulk/bulk.html</a>) to allow browsing of their suttas and other articles of interest, as well as bookmarking pages for later reference.  Clicking on the "English" menu item while reading from the sutta pitaka will take you directly to the section of ATI\'s site regarding the nikaya you are reading.</string>
+    <string name="help_dialog">Android Tipitaka - Help and About</string>
+    <string name="help_intro">Welcome to the Android Tipitaka.  Below you will find basic instructions on how to use this app.  Please send comments and feedback to <a href="mailto:yuttadhammo@gmail.com">yuttadhammo@gmail.com</a>.  Happy trails!</string>
+    <string name="hier">Hierarchy</string>
+    <string name="import_info">Move database to internal storage</string>
+    <string name="import_success">Database moved to SD card</string>
+    <string name="in">in</string>
+    <string name="incorrect">Incorrect!</string>
+    <string name="index">Index</string>
+    <string name="internet_not_connected">No connection to the Internet</string>
+    <string name="keywords">Keywords</string>
+    <string name="kilobytes_per_second">%1$s KB/s</string>
+    <string name="license">Android Tipitaka is licensed under the GPL 3+</string>
+    <string name="limitation">Program Limitations</string>
+    <string name="lookup">Lookup</string>
+    <string name="manage_bookmark">Edit</string>
+    <string name="marked">Star</string>
+    <string name="memo">Bookmark</string>
+    <string name="memoTitle">Set Bookmark</string>
+    <string name="memo_not_found">Bookmark not found</string>
+    <string name="memo_set">Bookmark Set</string>
+    <string name="menu">Menu</string>
+    <string name="minus">Zoom Out</string>
+    <string name="more_found">Found more than one instance</string>
+    <string name="move_down">Move down</string>
+    <string name="move_up">Move up</string>
+    <string name="mul_full">Mūla</string>
+    <string name="no">no</string>
+    <string name="not_found">Term not found</string>
+    <string name="note_top">Alphabetical Order</string>
+    <string name="notification_download_complete">Download complete</string>
+    <string name="notification_download_failed">Download unsuccessful</string>
+    <string name="number">Number</string>
+    <string name="ok">OK</string>
+    <string name="order_entry">Entry order</string>
+    <string name="pl">Pali</string>
+    <string name="pl_lang">Pali</string>
+    <string name="please_search_again">Please search again</string>
+    <string name="please_wait">Please wait</string>
+    <string name="plus">Zoom In</string>
+    <!-- From: file:/home/noah/atipitaka-old/tipitaka/build/intermediates/exploded-aar/com.google.android.gms/play-services/5.2.08/res/values/common_strings.xml -->
+    <eat-comment />
+
+    <string name="pre_release_do_not_ship" translatable="false">true</string>
+    <!-- From: file:/home/noah/atipitaka-old/tipitaka/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="prefAtiDir">ATI Location</string>
+    <string name="prefBackColor">Background Color</string>
+    <string name="prefBaseSize">Tipitaka Font Size</string>
+    <string name="prefColor">Text Color</string>
+    <string name="prefDataDir">Database Location</string>
+    <string name="prefFindColor">Find Highlight Color</string>
+    <string name="prefFlingNav">Fling to Navigate</string>
+    <string name="prefFlingNavDesc">allows dragging finger left or right on text to navigate</string>
+    <string name="prefMisc">Misc Preferences</string>
+    <string name="prefNav">Navigation Preferences</string>
+    <string name="prefSearchColor">Search Term Color</string>
+    <string name="prefShowDefNote">When highlighting a word, show a concise definition</string>
+    <string name="prefShowDefs">Show Definitions</string>
+    <string name="prefShowVar">Show Variants</string>
+    <string name="prefText">Text Preferences</string>
+    <string name="prefTextScript">Text Script (experimental)</string>
+    <string name="prefTitleColor">Title Color</string>
+    <string name="prefVarColor">Variant Color</string>
+    <string name="prefVolNav">Volume Buttons Navigate</string>
+    <string name="prefVolNavDesc">allows use of volume buttons to navigate in text</string>
+    <string name="prefVolNavReverse">Reverse Volume Buttons</string>
+    <string name="prefVolNavReverseDesc">if enabled, volume up goes to previous and volume down goes to next section</string>
+    <string name="preferences">Preferences</string>
+    <string name="preferences_title">Android Tipitaka - Preferences</string>
+    <string name="priority_number">Priority number</string>
+    <string name="private_info">Move database</string>
+    <string name="program_thai_name">Android Tipitaka</string>
+    <string name="question">What is the meaning of %s?</string>
+    <string name="quiz">Quiz</string>
+    <string name="quiz_title">Android Tipitaka - Quiz</string>
+    <string name="read_page">Android Tipitaka - Reading</string>
+    <string name="recall_data">Recall data</string>
+    <string name="recall_freq">Recall frequency</string>
+    <string name="recompute_priority">Recompute priority</string>
+    <string name="regex_item">\\n\\s*\\[[0123456789]+?\\]|^\\s*\\[[0123456789]+?\\]</string>
+    <string name="s_abhi">Abhi.</string>
+    <string name="s_page">p.</string>
+    <string name="s_sut">su.</string>
+    <string name="s_suttan">Sutta</string>
+    <string name="s_vinai">Vinaya</string>
+    <string name="save">Save</string>
+    <string name="saveinfo_not_found">File not found on SD card</string>
+    <string name="search_dialog">Android Tipitaka - Search</string>
+    <string name="search_from_start">Reached end of page, continuing from top</string>
+    <string name="search_hint">Enter search term</string>
+    <string name="search_no_match">Search term not found</string>
+    <string name="search_page">Android Tipitaka - Search Results</string>
+    <string name="sections">sections</string>
+    <string name="select_cate">Select category to search</string>
+    <string name="select_item_compare">Select item to compare</string>
+    <string name="select_item_memo">Select item to bookmark</string>
+    <string name="select_lang">Choose</string>
+    <string name="share">Share</string>
+    <string name="sorting">Sorting</string>
+    <string name="sorting_bookmark_prefs">Bookmark order</string>
+    <string name="sorting_prefs">Order preference</string>
+    <string name="spinner_lang_prompt">Change language</string>
+    <string name="ss_abhi">Abhi.</string>
+    <string name="ss_att">Aṭṭ</string>
+    <string name="ss_etc">Etc.</string>
+    <string name="ss_mul">Mūl</string>
+    <string name="ss_suttan">Su.</string>
+    <string name="ss_tik">Ṭīk</string>
+    <string name="ss_vinai">Vi.</string>
+    <string name="state_completed">Download finished</string>
+    <string name="state_connecting">Connecting to the download server</string>
+    <string name="state_downloading">Downloading resources</string>
+    <string name="state_failed">Download failed</string>
+    <string name="state_failed_cancelled">Download cancelled</string>
+    <string name="state_failed_fetching_url">Download failed because the resources could not be found</string>
+    <string name="state_failed_sdcard_full">Download failed because the external storage is full</string>
+    <string name="state_failed_unlicensed">Download failed because you may not have purchased this app</string>
+    <string name="state_fetching_url">Looking for resources to download</string>
+    <string name="state_idle">Waiting for download to start</string>
+    <string name="state_paused_by_request">Download paused</string>
+    <string name="state_paused_network_setup_failure">Download paused. Test a website in browser</string>
+    <string name="state_paused_network_unavailable">Download paused because no network is available</string>
+    <string name="state_paused_roaming">Download paused because you are roaming</string>
+    <string name="state_paused_sdcard_unavailable">Download paused because the external storage is unavailable</string>
+    <string name="state_paused_wifi_disabled">Download paused because wifi is disabled</string>
+    <string name="state_paused_wifi_unavailable">Download paused because wifi is unavailable</string>
+    <string name="state_unknown">Starting..."</string>
+    <string name="suts_number">Suttas found</string>
+    <string name="suttan">Suttanta</string>
+    <string name="suttan_full">Suttanta Pitaka</string>
+    <string name="swap_lang">Switch language</string>
+    <string name="text_button_cancel">Cancel</string>
+    <string name="text_button_cancel_copy">Cancel Copy</string>
+    <string name="text_button_cancel_verify">Cancel Verification</string>
+    <string name="text_button_pause">Pause Download</string>
+    <string name="text_button_resume">Resume Download</string>
+    <string name="text_button_resume_cellular">Resume download</string>
+    <string name="text_button_wifi_settings">Wi-Fi settings</string>
+    <string name="text_copy_complete">Database Copy Complete.</string>
+    <string name="text_copy_failed">Database Copy Failed.</string>
+    <string name="text_copying_database">Copying Database</string>
+    <string name="text_paused_cellular">Would you like to enable downloading over cellular connections? Depending on your data plan, this may cost you money.</string>
+    <string name="text_paused_cellular_2">If you choose not to enable downloading over cellular connections, the download will automatically resume when wi-fi is available.</string>
+    <string name="text_validation_complete">XAPK File Validation Complete.</string>
+    <string name="text_validation_failed">XAPK File Validation Failed.</string>
+    <string name="text_verifying_download">Verifying Download</string>
+    <string name="th">Thai</string>
+    <string name="th_book_label">Volume</string>
+    <string name="th_found">Found in</string>
+    <string name="th_items_label">Paragraph</string>
+    <string name="th_lang">Thai</string>
+    <string name="th_page">Sections</string>
+    <string name="th_page_label">Section</string>
+    <string name="th_read">  Read  </string>
+    <string name="th_search">Search</string>
+    <string name="th_searching">Searching</string>
+    <string name="th_suttra">Suttas</string>
+    <string name="th_tipitaka_book">Tipitaka Vol.</string>
+    <string name="th_tipitaka_label">Tipitaka</string>
+    <string name="tik_full">Ṭīkā</string>
+    <string name="time_remaining">Time remaining: %1$s</string>
+    <string name="time_remaining_notification">%1$s left</string>
+    <string name="top">Top</string>
+    <string name="unmarked">Unstar</string>
+    <string name="unread">Unread</string>
+    <string name="unread_all">All unread</string>
+    <string name="unread_all_items">Set all items as unread</string>
+    <string name="unzipped">Database unzipped</string>
+    <string name="unzipped_ati">Archive unzipped</string>
+    <string name="unzipping_ati">Unzipping the archive...</string>
+    <string name="unzipping_db">Unzipping the database...</string>
+    <string name="update_archive">Update Archive</string>
+    <string name="update_archive_summary">Attempt to download the latest database from Google</string>
+    <string name="url_sort">By URL Location</string>
+    <string name="vinai">Vinaya</string>
+    <string name="vinai_full">Vinaya Pitaka</string>
+    <string name="volume_page">number,volume-section</string>
+    <string name="volumes">volumes</string>
+    <!-- From: file:/home/noah/atipitaka-old/tipitaka/build/intermediates/exploded-aar/com.google.android.gms/play-services/5.2.08/res/values/wallet_strings.xml -->
+    <eat-comment />
+
+    <string name="wallet_buy_button_place_holder" translation_description="Text on a button that allows a user to make a payment with Google Wallet [CHAR LIMIT=30]">Buy with Google</string>
+    <!-- From: file:/home/noah/atipitaka-old/tipitaka/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="yes">yes</string>
+    <string name="zero_zero">(0/0)</string>
+    <string name="zoom_in">zoom in</string>
+    <string name="zoom_out">zoom out</string>
+    <!-- From: file:/home/noah/atipitaka-old/tipitaka/src/main/res/values/styles.xml -->
+    <eat-comment />
+
+    <style name="ButtonBackground">
+        <item name="android:background">@android:color/background_dark</item>
+    </style>
+
+    <style name="GradientDivider">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">1dp</item>
+        <item name="android:background">@drawable/black_white_gradient</item>
+    </style>
+
+    <style name="NotificationText">
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+    </style>
+
+    <style name="NotificationTextShadow" parent="NotificationText">
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+        <item name="android:shadowColor">@android:color/background_dark</item>
+        <item name="android:shadowDx">1.0</item>
+        <item name="android:shadowDy">1.0</item>
+        <item name="android:shadowRadius">1</item>
+    </style>
+
+    <style name="NotificationTitle">
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="SettingsText">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">25sp</item>
+        <item name="android:padding">20dp</item>
+        <item name="android:gravity">left|center_vertical</item>
+        <item name="android:clickable">true</item>
+    </style>
+    <!-- From: file:/home/noah/atipitaka-old/tipitaka/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml -->
+    <eat-comment />
+
+    <style name="Sherlock.__TextAppearance.Small" parent="Widget">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style>
+
+    <style name="Sherlock.__Theme" parent="android:Theme.NoTitleBar">
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+
+    <style name="Sherlock.__Theme.DarkActionBar" parent="Theme.Sherlock.Light" />
+
+    <style name="Sherlock.__Theme.Light" parent="android:Theme.Light.NoTitleBar">
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+
+    <style name="Sherlock.__Widget.ActionBar" parent="Widget">
+        <item name="displayOptions">useLogo|showHome|showTitle</item>
+        <item name="height">?attr/actionBarSize</item>
+        <item name="android:paddingLeft">0dip</item>
+        <item name="android:paddingTop">0dip</item>
+        <item name="android:paddingRight">0dip</item>
+        <item name="android:paddingBottom">0dip</item>
+        <item name="homeLayout">@layout/abs__action_bar_home</item>
+    </style>
+
+    <style name="Sherlock.__Widget.ActionMode" parent="Widget">
+        <item name="background">?attr/actionModeBackground</item>
+        <item name="backgroundSplit">?attr/actionModeSplitBackground</item>
+        <item name="height">?attr/actionBarSize</item>
+    </style>
+
+    <style name="Sherlock.__Widget.ActivityChooserView" parent="Widget">
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/abs__ab_share_pack_holo_dark</item>
+        <item name="android:divider">?attr/dividerVertical</item>
+        <item name="android:showDividers">middle</item>
+        <item name="android:dividerPadding">6dip</item>
+        <item name="android:minHeight">?attr/actionBarSize</item>
+    </style>
+
+    <style name="Sherlock.__Widget.Holo.DropDownItem" parent="Widget">
+        <item name="android:textAppearance">@style/TextAppearance.Sherlock.Widget.DropDownItem</item>
+        <item name="android:paddingLeft">8dp</item>
+        <item name="android:paddingRight">8dp</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+
+    <style name="Sherlock.__Widget.Holo.ListView" parent="android:Widget.ListView">
+        <item name="android:divider">@drawable/abs__list_divider_holo_dark</item>
+        <item name="android:listSelector">@drawable/abs__list_selector_holo_dark</item>
+    </style>
+
+    <style name="Sherlock.__Widget.Holo.Spinner" parent="Widget">
+        <item name="android:dropDownSelector">@drawable/abs__list_selector_holo_dark</item>
+        <item name="android:popupBackground">@drawable/abs__menu_dropdown_panel_holo_dark</item>
+        <item name="android:dropDownVerticalOffset">0dip</item>
+        <item name="android:dropDownHorizontalOffset">0dip</item>
+        <item name="android:dropDownWidth">wrap_content</item>
+        <item name="android:gravity">left|center_vertical</item>
+        <item name="android:spinnerMode">dropdown</item>
+        <item name="android:clickable">true</item>
+    </style>
+
+    <style name="Sherlock.__Widget.SearchAutoCompleteTextView" parent="Widget">
+        <item name="android:focusable">true</item>
+        <item name="android:focusableInTouchMode">true</item>
+        <item name="android:clickable">true</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceMediumInverse</item>
+        <item name="android:textColor">?attr/textColorPrimary</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:completionHintView">@layout/abs__simple_dropdown_hint</item>
+        <item name="android:completionThreshold">2</item>
+        <item name="android:dropDownWidth">wrap_content</item>
+    </style>
+    <!-- From: file:/home/noah/atipitaka-old/tipitaka/src/main/res/values/styles.xml -->
+    <eat-comment />
+
+    <style name="SwitchTheme" parent="Theme.Sherlock.Light"></style>
+    <!-- From: file:/home/noah/atipitaka-old/tipitaka/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml -->
+    <eat-comment />
+
+    <style name="TextAppearance.Sherlock" parent="@android:style/TextAppearance" />
+
+    <style name="TextAppearance.Sherlock.Light.SearchResult" parent="TextAppearance.Sherlock.SearchResult" />
+
+    <style name="TextAppearance.Sherlock.Light.SearchResult.Subtitle">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style>
+
+    <style name="TextAppearance.Sherlock.Light.SearchResult.Title">
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="TextAppearance.Sherlock.Light.Small" parent="TextAppearance.Sherlock.Small" />
+
+    <style name="TextAppearance.Sherlock.Light.Widget.PopupMenu.Large" parent="TextAppearance.Sherlock.Widget.PopupMenu.Large" />
+
+    <style name="TextAppearance.Sherlock.Light.Widget.PopupMenu.Small" parent="TextAppearance.Sherlock.Widget.PopupMenu.Small" />
+
+    <style name="TextAppearance.Sherlock.SearchResult">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+        <item name="android:textColorHint">?android:attr/textColorHint</item>
+    </style>
+
+    <style name="TextAppearance.Sherlock.SearchResult.Subtitle">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style>
+
+    <style name="TextAppearance.Sherlock.SearchResult.Title">
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="TextAppearance.Sherlock.Small" parent="Sherlock.__TextAppearance.Small" />
+
+    <style name="TextAppearance.Sherlock.Widget.ActionBar.Menu" parent="Widget">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">?attr/actionMenuTextColor</item>
+        <item name="android:textAllCaps">@bool/abs__config_actionMenuItemAllCaps</item>
+    </style>
+
+    <style name="TextAppearance.Sherlock.Widget.ActionBar.Subtitle" parent="Widget">
+        <item name="android:textSize">@dimen/abs__action_bar_subtitle_text_size</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style>
+
+    <style name="TextAppearance.Sherlock.Widget.ActionBar.Subtitle.Inverse" parent="Widget">
+        <item name="android:textSize">@dimen/abs__action_bar_subtitle_text_size</item>
+        <item name="android:textColor">?android:attr/textColorPrimaryInverse</item>
+    </style>
+
+    <style name="TextAppearance.Sherlock.Widget.ActionBar.Title" parent="Widget">
+        <item name="android:textSize">@dimen/abs__action_bar_title_text_size</item>
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+    </style>
+
+    <style name="TextAppearance.Sherlock.Widget.ActionBar.Title.Inverse" parent="Widget">
+        <item name="android:textSize">@dimen/abs__action_bar_title_text_size</item>
+        <item name="android:textColor">?android:attr/textColorPrimaryInverse</item>
+    </style>
+
+    <style name="TextAppearance.Sherlock.Widget.ActionMode.Subtitle" parent="Widget">
+        <item name="android:textSize">@dimen/abs__action_bar_subtitle_text_size</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style>
+
+    <style name="TextAppearance.Sherlock.Widget.ActionMode.Subtitle.Inverse" parent="Widget">
+        <item name="android:textSize">@dimen/abs__action_bar_subtitle_text_size</item>
+        <item name="android:textColor">?android:attr/textColorPrimaryInverse</item>
+    </style>
+
+    <style name="TextAppearance.Sherlock.Widget.ActionMode.Title" parent="Widget">
+        <item name="android:textSize">@dimen/abs__action_bar_title_text_size</item>
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+    </style>
+
+    <style name="TextAppearance.Sherlock.Widget.ActionMode.Title.Inverse" parent="Widget">
+        <item name="android:textSize">@dimen/abs__action_bar_title_text_size</item>
+        <item name="android:textColor">?android:attr/textColorPrimaryInverse</item>
+    </style>
+
+    <style name="TextAppearance.Sherlock.Widget.DropDownHint" parent="Widget">
+        <item name="android:textColor">?textColorPrimary</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="TextAppearance.Sherlock.Widget.DropDownItem" parent="Widget">
+        <item name="android:textColor">?textColorPrimaryDisableOnly</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="TextAppearance.Sherlock.Widget.PopupMenu" parent="Widget">
+        <item name="android:textColor">?attr/textColorPrimary</item>
+    </style>
+
+    <style name="TextAppearance.Sherlock.Widget.PopupMenu.Large">
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="TextAppearance.Sherlock.Widget.PopupMenu.Small">
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="TextAppearance.Sherlock.Widget.TextView.SpinnerItem" parent="Widget">
+        <item name="android:textColor">?textColorPrimary</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <!-- From: file:/home/noah/atipitaka-old/tipitaka/build/intermediates/exploded-aar/com.google.android.gms/play-services/5.2.08/res/values/admob_iap_style.xml -->
+    <eat-comment />
+
+    <style name="Theme.IAPTheme" parent="android:Theme">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+    <!-- From: file:/home/noah/atipitaka-old/tipitaka/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml -->
+    <eat-comment />
+
+    <style name="Theme.Sherlock" parent="Sherlock.__Theme">
+
+        <!-- Action bar styles (from Theme.Holo) -->
+        <item name="actionDropDownStyle">@style/Widget.Sherlock.Spinner.DropDown.ActionBar</item>
+        <item name="actionButtonStyle">@style/Widget.Sherlock.ActionButton</item>
+        <item name="actionOverflowButtonStyle">@style/Widget.Sherlock.ActionButton.Overflow</item>
+        <item name="actionModeBackground">@drawable/abs__cab_background_top_holo_dark</item>
+        <item name="actionModeSplitBackground">@drawable/abs__cab_background_bottom_holo_dark</item>
+        <item name="actionModeCloseDrawable">@drawable/abs__ic_cab_done_holo_dark</item>
+        <item name="actionBarTabStyle">@style/Widget.Sherlock.ActionBar.TabView</item>
+        <item name="actionBarTabBarStyle">@style/Widget.Sherlock.ActionBar.TabBar</item>
+        <item name="actionBarTabTextStyle">@style/Widget.Sherlock.ActionBar.TabText</item>
+        <item name="actionModeStyle">@style/Widget.Sherlock.ActionMode</item>
+        <item name="actionModeCloseButtonStyle">@style/Widget.Sherlock.ActionButton.CloseMode</item>
+        <item name="actionBarStyle">@style/Widget.Sherlock.ActionBar</item>
+        <item name="actionBarSize">@dimen/abs__action_bar_default_height</item>
+        <!-- Internal -->
+        <item name="actionModePopupWindowStyle">@style/Widget.Sherlock.PopupWindow.ActionMode</item>
+        <item name="actionBarWidgetTheme">@null</item>
+
+        <!-- Action bar styles (defaults from Theme) -->
+        <item name="actionBarSplitStyle">?attr/actionBarStyle</item>
+        <item name="actionMenuTextAppearance">@style/TextAppearance.Sherlock.Widget.ActionBar.Menu</item>
+        <item name="actionMenuTextColor">?attr/textColorPrimary</item>
+        <item name="actionBarDivider">?attr/dividerVertical</item>
+        <item name="actionBarItemBackground">?attr/selectableItemBackground</item>
+        <item name="buttonStyleSmall">@style/Widget.Sherlock.Button.Small</item>
+        <item name="selectableItemBackground">@drawable/abs__item_background_holo_dark</item>
+        <item name="activatedBackgroundIndicator">@drawable/abs__activated_background_holo_dark</item>
+        <item name="actionModeShareDrawable">@drawable/abs__ic_menu_share_holo_dark</item>
+        <item name="activityChooserViewStyle">@style/Widget.Sherlock.ActivityChooserView</item>
+        <item name="homeAsUpIndicator">@drawable/abs__ic_ab_back_holo_dark</item>
+        <item name="dividerVertical">@drawable/abs__list_divider_holo_dark</item>
+        <item name="spinnerDropDownItemStyle">@style/Widget.Sherlock.DropDownItem.Spinner</item>
+        <item name="spinnerItemStyle">@style/Widget.Sherlock.TextView.SpinnerItem</item>
+        <item name="textColorPrimary">@color/abs__primary_text_holo_dark</item>
+        <item name="textColorPrimaryDisableOnly">@color/abs__primary_text_disable_only_holo_dark</item>
+        <item name="textColorPrimaryInverse">@color/abs__primary_text_holo_light</item>
+
+        <!-- Internal -->
+        <item name="dropdownListPreferredItemHeight">48dip</item>
+        <item name="dropDownListViewStyle">@style/Widget.Sherlock.ListView.DropDown</item>
+        <item name="textAppearanceSmall">@style/TextAppearance.Sherlock.Small</item>
+        <item name="textAppearanceLargePopupMenu">@style/TextAppearance.Sherlock.Widget.PopupMenu.Large</item>
+        <item name="textAppearanceSmallPopupMenu">@style/TextAppearance.Sherlock.Widget.PopupMenu.Small</item>
+        <item name="textAppearanceSearchResultTitle">@style/TextAppearance.Sherlock.SearchResult.Title</item>
+        <item name="textAppearanceSearchResultSubtitle">@style/TextAppearance.Sherlock.SearchResult.Subtitle</item>
+        <item name="popupMenuStyle">@style/Widget.Sherlock.PopupMenu</item>
+        <!-- Internal -->
+        <item name="listPopupWindowStyle">@style/Widget.Sherlock.ListPopupWindow</item>
+        <item name="searchDropdownBackground">@drawable/abs__search_dropdown_dark</item>
+        <item name="searchViewTextField">@drawable/abs__textfield_searchview_holo_dark</item>
+        <item name="searchViewTextFieldRight">@drawable/abs__textfield_searchview_right_holo_dark</item>
+        <item name="searchViewCloseIcon">@drawable/abs__ic_clear</item>
+        <item name="searchViewSearchIcon">@drawable/abs__ic_search</item>
+        <item name="searchViewGoIcon">@drawable/abs__ic_go</item>
+        <item name="searchViewVoiceIcon">@drawable/abs__ic_voice_search</item>
+        <item name="searchAutoCompleteTextView">@style/Widget.Sherlock.SearchAutoCompleteTextView</item>
+        <item name="dropDownHintAppearance">@style/TextAppearance.Sherlock.Widget.DropDownHint</item>
+        <item name="searchViewEditQuery">@drawable/abs__ic_commit_search_api_holo_dark</item>
+        <item name="searchViewEditQueryBackground">?selectableItemBackground</item>
+        <item name="searchResultListItemHeight">58dp</item>
+        <item name="windowNoTitle">false</item>
+        <item name="windowActionBar">true</item>
+        <item name="windowActionModeOverlay">false</item>
+        <item name="windowContentOverlay">@null</item>
+    </style>
+
+    <style name="Theme.Sherlock.Light" parent="Sherlock.__Theme.Light">
+
+        <!-- Action bar styles (from Theme.Holo) -->
+        <item name="actionDropDownStyle">@style/Widget.Sherlock.Light.Spinner.DropDown.ActionBar</item>
+        <item name="actionButtonStyle">@style/Widget.Sherlock.Light.ActionButton</item>
+        <item name="actionOverflowButtonStyle">@style/Widget.Sherlock.Light.ActionButton.Overflow</item>
+        <item name="actionModeBackground">@drawable/abs__cab_background_top_holo_light</item>
+        <item name="actionModeSplitBackground">@drawable/abs__cab_background_bottom_holo_light</item>
+        <item name="actionModeCloseDrawable">@drawable/abs__ic_cab_done_holo_light</item>
+        <item name="actionBarTabStyle">@style/Widget.Sherlock.Light.ActionBar.TabView</item>
+        <item name="actionBarTabBarStyle">@style/Widget.Sherlock.Light.ActionBar.TabBar</item>
+        <item name="actionBarTabTextStyle">@style/Widget.Sherlock.Light.ActionBar.TabText</item>
+        <item name="actionModeStyle">@style/Widget.Sherlock.Light.ActionMode</item>
+        <item name="actionModeCloseButtonStyle">@style/Widget.Sherlock.Light.ActionButton.CloseMode</item>
+        <item name="actionBarStyle">@style/Widget.Sherlock.Light.ActionBar.Solid</item>
+        <item name="actionBarSize">@dimen/abs__action_bar_default_height</item>
+        <!-- Internal -->
+        <item name="actionModePopupWindowStyle">@style/Widget.Sherlock.Light.PopupWindow.ActionMode</item>
+        <item name="actionBarWidgetTheme">@null</item>
+
+        <!-- Action bar styles (defaults from Theme) -->
+        <item name="actionBarSplitStyle">?attr/actionBarStyle</item>
+        <item name="actionMenuTextAppearance">@style/TextAppearance.Sherlock.Widget.ActionBar.Menu</item>
+        <item name="actionMenuTextColor">?attr/textColorPrimary</item>
+        <item name="actionBarDivider">?attr/dividerVertical</item>
+        <item name="actionBarItemBackground">?attr/selectableItemBackground</item>
+        <item name="buttonStyleSmall">@style/Widget.Sherlock.Light.Button.Small</item>
+        <item name="selectableItemBackground">@drawable/abs__item_background_holo_light</item>
+        <item name="activatedBackgroundIndicator">@drawable/abs__activated_background_holo_light</item>
+        <item name="actionModeShareDrawable">@drawable/abs__ic_menu_share_holo_light</item>
+        <item name="activityChooserViewStyle">@style/Widget.Sherlock.Light.ActivityChooserView</item>
+        <item name="homeAsUpIndicator">@drawable/abs__ic_ab_back_holo_light</item>
+        <item name="dividerVertical">@drawable/abs__list_divider_holo_light</item>
+        <item name="spinnerDropDownItemStyle">@style/Widget.Sherlock.Light.DropDownItem.Spinner</item>
+        <item name="spinnerItemStyle">@style/Widget.Sherlock.TextView.SpinnerItem</item>
+        <item name="textColorPrimary">@color/abs__primary_text_holo_light</item>
+        <item name="textColorPrimaryDisableOnly">@color/abs__primary_text_disable_only_holo_light</item>
+        <item name="textColorPrimaryInverse">@color/abs__primary_text_holo_dark</item>
+
+        <!-- Internal -->
+        <item name="dropdownListPreferredItemHeight">48dip</item>
+        <item name="dropDownListViewStyle">@style/Widget.Sherlock.Light.ListView.DropDown</item>
+        <item name="textAppearanceSmall">@style/TextAppearance.Sherlock.Light.Small</item>
+        <item name="textAppearanceLargePopupMenu">@style/TextAppearance.Sherlock.Light.Widget.PopupMenu.Large</item>
+        <item name="textAppearanceSmallPopupMenu">@style/TextAppearance.Sherlock.Light.Widget.PopupMenu.Small</item>
+        <item name="textAppearanceSearchResultTitle">@style/TextAppearance.Sherlock.Light.SearchResult.Title</item>
+        <item name="textAppearanceSearchResultSubtitle">@style/TextAppearance.Sherlock.Light.SearchResult.Subtitle</item>
+        <item name="popupMenuStyle">@style/Widget.Sherlock.Light.PopupMenu</item>
+        <!-- Internal -->
+        <item name="listPopupWindowStyle">@style/Widget.Sherlock.Light.ListPopupWindow</item>
+        <item name="searchDropdownBackground">@drawable/abs__search_dropdown_light</item>
+        <item name="searchViewTextField">@drawable/abs__textfield_searchview_holo_light</item>
+        <item name="searchViewTextFieldRight">@drawable/abs__textfield_searchview_right_holo_light</item>
+        <item name="searchViewCloseIcon">@drawable/abs__ic_clear_holo_light</item>
+        <item name="searchViewSearchIcon">@drawable/abs__ic_search_api_holo_light</item>
+        <item name="searchViewGoIcon">@drawable/abs__ic_go_search_api_holo_light</item>
+        <item name="searchViewVoiceIcon">@drawable/abs__ic_voice_search_api_holo_light</item>
+        <item name="searchAutoCompleteTextView">@style/Widget.Sherlock.Light.SearchAutoCompleteTextView</item>
+        <item name="dropDownHintAppearance">@style/TextAppearance.Sherlock.Widget.DropDownHint</item>
+        <item name="searchViewEditQuery">@drawable/abs__ic_commit_search_api_holo_light</item>
+        <item name="searchViewEditQueryBackground">?selectableItemBackground</item>
+        <item name="searchResultListItemHeight">58dp</item>
+        <item name="windowNoTitle">false</item>
+        <item name="windowActionBar">true</item>
+        <item name="windowActionModeOverlay">false</item>
+        <item name="windowContentOverlay">@null</item>
+    </style>
+
+    <style name="Theme.Sherlock.Light.DarkActionBar" parent="Sherlock.__Theme.DarkActionBar">
+        <item name="windowContentOverlay">@drawable/abs__ab_solid_shadow_holo</item>
+        <item name="actionBarStyle">@style/Widget.Sherlock.Light.ActionBar.Solid.Inverse</item>
+        <item name="actionBarWidgetTheme">@style/Theme.Sherlock</item>
+        <item name="actionDropDownStyle">@style/Widget.Sherlock.Spinner.DropDown.ActionBar</item>
+        <item name="actionButtonStyle">@style/Widget.Sherlock.ActionButton</item>
+        <item name="actionOverflowButtonStyle">@style/Widget.Sherlock.ActionButton.Overflow</item>
+        <item name="actionModeBackground">@drawable/abs__cab_background_top_holo_dark</item>
+        <item name="actionModeSplitBackground">@drawable/abs__cab_background_bottom_holo_dark</item>
+        <item name="actionModeCloseDrawable">@drawable/abs__ic_cab_done_holo_dark</item>
+        <item name="homeAsUpIndicator">@drawable/abs__ic_ab_back_holo_dark</item>
+        <item name="actionBarTabStyle">@style/Widget.Sherlock.Light.ActionBar.TabView.Inverse</item>
+        <item name="actionBarTabBarStyle">@style/Widget.Sherlock.Light.ActionBar.TabBar.Inverse</item>
+        <item name="actionBarTabTextStyle">@style/Widget.Sherlock.Light.ActionBar.TabText.Inverse</item>
+        <item name="actionBarDivider">@drawable/abs__list_divider_holo_dark</item>
+        <item name="actionBarItemBackground">@drawable/abs__item_background_holo_dark</item>
+        <item name="actionMenuTextColor">?attr/textColorPrimaryInverse</item>
+        <item name="actionModeStyle">@style/Widget.Sherlock.Light.ActionMode.Inverse</item>
+        <item name="actionModeCloseButtonStyle">@style/Widget.Sherlock.ActionButton.CloseMode</item>
+        <item name="actionModePopupWindowStyle">@style/Widget.Sherlock.PopupWindow.ActionMode</item>
+        <item name="actionModeShareDrawable">@drawable/abs__ic_menu_share_holo_dark</item>
+
+        <!-- We want the dark action bar SearchView stuff -->
+        <item name="searchDropdownBackground">@drawable/abs__search_dropdown_dark</item>
+        <item name="searchViewTextField">@drawable/abs__textfield_searchview_holo_dark</item>
+        <item name="searchViewTextFieldRight">@drawable/abs__textfield_searchview_right_holo_dark</item>
+        <item name="searchViewCloseIcon">@drawable/abs__ic_clear</item>
+        <item name="searchViewSearchIcon">@drawable/abs__ic_search</item>
+        <item name="searchViewGoIcon">@drawable/abs__ic_go</item>
+        <item name="searchViewVoiceIcon">@drawable/abs__ic_voice_search</item>
+        <item name="searchAutoCompleteTextView">@style/Widget.Sherlock.SearchAutoCompleteTextView</item>
+        <item name="dropDownHintAppearance">@style/TextAppearance.Sherlock.Widget.DropDownHint</item>
+        <item name="searchViewEditQuery">@drawable/abs__ic_commit_search_api_holo_dark</item>
+    </style>
+
+    <style name="Theme.Sherlock.Light.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.Sherlock.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <!-- From: file:/home/noah/atipitaka-old/tipitaka/build/intermediates/exploded-aar/com.google.android.gms/play-services/5.2.08/res/values/wallet_styles.xml -->
+    <eat-comment />
+
+    <style name="WalletFragmentDefaultButtonTextAppearance">
+        <item name="android:textColor">@color/wallet_primary_text_holo_light</item>
+        <item name="android:textColorHighlight">@color/wallet_highlighted_text_holo_light</item>
+        <item name="android:textColorHint">@color/wallet_hint_foreground_holo_light</item>
+        <item name="android:textColorLink">@color/wallet_link_text_light</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="WalletFragmentDefaultDetailsHeaderTextAppearance" parent="WalletFragmentDefaultDetailsTextAppearance">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="WalletFragmentDefaultDetailsTextAppearance">
+        <item name="android:textColor">@color/wallet_secondary_text_holo_dark</item>
+        <item name="android:textColorHighlight">@color/wallet_highlighted_text_holo_dark</item>
+        <item name="android:textColorHint">@color/wallet_hint_foreground_holo_dark</item>
+        <item name="android:textColorLink">@color/wallet_holo_blue_light</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="WalletFragmentDefaultStyle">
+        <item name="buyButtonHeight">48dp</item>
+        <item name="buyButtonWidth">match_parent</item>
+        <item name="buyButtonText">buy_with_google</item>
+        <item name="buyButtonAppearance">classic</item>
+        <item name="maskedWalletDetailsTextAppearance">@style/WalletFragmentDefaultDetailsTextAppearance</item>
+        <item name="maskedWalletDetailsHeaderTextAppearance">@style/WalletFragmentDefaultDetailsHeaderTextAppearance</item>
+        <item name="maskedWalletDetailsBackground">@color/wallet_bright_foreground_holo_light</item>
+        <item name="maskedWalletDetailsButtonBackground">@android:drawable/btn_default</item>
+        <item name="maskedWalletDetailsButtonTextAppearance">@style/WalletFragmentDefaultButtonTextAppearance</item>
+        <item name="maskedWalletDetailsLogoTextColor">@color/wallet_bright_foreground_holo_dark</item>
+        <item name="maskedWalletDetailsLogoImageType">classic</item>
+    </style>
+    <!-- From: file:/home/noah/atipitaka-old/tipitaka/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml -->
+    <eat-comment />
+
+    <style name="Widget" />
+
+    <style name="Widget.Sherlock.ActionBar" parent="Sherlock.__Widget.ActionBar">
+        <item name="titleTextStyle">@style/TextAppearance.Sherlock.Widget.ActionBar.Title</item>
+        <item name="subtitleTextStyle">@style/TextAppearance.Sherlock.Widget.ActionBar.Subtitle</item>
+        <item name="background">@drawable/abs__ab_transparent_dark_holo</item>
+        <item name="backgroundStacked">@drawable/abs__ab_stacked_transparent_dark_holo</item>
+        <item name="backgroundSplit">@drawable/abs__ab_bottom_transparent_dark_holo</item>
+        <item name="divider">?attr/dividerVertical</item>
+        <item name="progressBarStyle">@style/Widget.Sherlock.ProgressBar.Horizontal</item>
+        <item name="indeterminateProgressStyle">@style/Widget.Sherlock.ProgressBar</item>
+        <item name="progressBarPadding">32dip</item>
+        <item name="itemPadding">8dip</item>
+    </style>
+
+    <style name="Widget.Sherlock.ActionBar.Solid" parent="Sherlock.__Widget.ActionBar">
+        <item name="titleTextStyle">@style/TextAppearance.Sherlock.Widget.ActionBar.Title</item>
+        <item name="subtitleTextStyle">@style/TextAppearance.Sherlock.Widget.ActionBar.Subtitle</item>
+        <item name="background">@drawable/abs__ab_solid_dark_holo</item>
+        <item name="backgroundStacked">@drawable/abs__ab_stacked_solid_dark_holo</item>
+        <item name="backgroundSplit">@drawable/abs__ab_bottom_solid_dark_holo</item>
+        <item name="divider">?attr/dividerVertical</item>
+        <item name="progressBarStyle">@style/Widget.Sherlock.ProgressBar.Horizontal</item>
+        <item name="indeterminateProgressStyle">@style/Widget.Sherlock.ProgressBar</item>
+        <item name="progressBarPadding">32dip</item>
+        <item name="itemPadding">8dip</item>
+    </style>
+
+    <style name="Widget.Sherlock.ActionBar.TabBar" parent="Widget">
+        <item name="android:divider">?attr/actionBarDivider</item>
+        <item name="android:showDividers">middle</item>
+        <item name="android:dividerPadding">12dip</item>
+    </style>
+
+    <style name="Widget.Sherlock.ActionBar.TabText" parent="Widget">
+        <item name="android:textAppearance">@null</item>
+        <item name="android:textColor">?attr/textColorPrimary</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:maxLines">2</item>
+    </style>
+
+    <style name="Widget.Sherlock.ActionBar.TabView" parent="Widget">
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:background">@drawable/abs__tab_indicator_ab_holo</item>
+        <item name="android:paddingLeft">16dip</item>
+        <item name="android:paddingRight">16dip</item>
+    </style>
+
+    <style name="Widget.Sherlock.ActionButton" parent="Widget">
+        <item name="android:background">?attr/actionBarItemBackground</item>
+        <item name="android:minHeight">?attr/actionBarSize</item>
+        <item name="android:minWidth">@dimen/abs__action_button_min_width</item>
+        <item name="android:gravity">center</item>
+        <item name="android:paddingLeft">12dip</item>
+        <item name="android:paddingRight">12dip</item>
+        <item name="android:scaleType">center</item>
+    </style>
+
+    <style name="Widget.Sherlock.ActionButton.CloseMode">
+        <item name="android:background">@drawable/abs__btn_cab_done_holo_dark</item>
+    </style>
+
+    <style name="Widget.Sherlock.ActionButton.Overflow">
+        <item name="android:src">@drawable/abs__ic_menu_moreoverflow_holo_dark</item>
+        <item name="android:background">?attr/actionBarItemBackground</item>
+        <item name="android:contentDescription">@string/abs__action_menu_overflow_description</item>
+    </style>
+
+    <style name="Widget.Sherlock.ActionMode" parent="Sherlock.__Widget.ActionMode">
+        <item name="titleTextStyle">@style/TextAppearance.Sherlock.Widget.ActionMode.Title</item>
+        <item name="subtitleTextStyle">@style/TextAppearance.Sherlock.Widget.ActionMode.Subtitle</item>
+    </style>
+
+    <style name="Widget.Sherlock.ActivityChooserView" parent="Sherlock.__Widget.ActivityChooserView" />
+
+    <style name="Widget.Sherlock.Button.Small" parent="Widget">
+        <item name="android:textAppearance">?attr/textAppearanceSmall</item>
+        <item name="android:textColor">@color/abs__primary_text_holo_dark</item>
+        <item name="android:minHeight">48dip</item>
+        <item name="android:minWidth">48dip</item>
+    </style>
+
+    <style name="Widget.Sherlock.DropDownItem.Spinner" parent="Sherlock.__Widget.Holo.DropDownItem" />
+
+    <style name="Widget.Sherlock.Light.ActionBar" parent="Widget.Sherlock.ActionBar">
+        <item name="titleTextStyle">@style/TextAppearance.Sherlock.Widget.ActionBar.Title</item>
+        <item name="subtitleTextStyle">@style/TextAppearance.Sherlock.Widget.ActionBar.Subtitle</item>
+        <item name="background">@drawable/abs__ab_transparent_light_holo</item>
+        <item name="backgroundStacked">@drawable/abs__ab_stacked_transparent_light_holo</item>
+        <item name="backgroundSplit">@drawable/abs__ab_bottom_transparent_light_holo</item>
+        <item name="homeAsUpIndicator">@drawable/abs__ic_ab_back_holo_light</item>
+        <item name="progressBarStyle">@style/Widget.Sherlock.Light.ProgressBar.Horizontal</item>
+        <item name="indeterminateProgressStyle">@style/Widget.Sherlock.Light.ProgressBar</item>
+    </style>
+
+    <style name="Widget.Sherlock.Light.ActionBar.Solid">
+        <item name="titleTextStyle">@style/TextAppearance.Sherlock.Widget.ActionBar.Title</item>
+        <item name="subtitleTextStyle">@style/TextAppearance.Sherlock.Widget.ActionBar.Subtitle</item>
+        <item name="background">@drawable/abs__ab_solid_light_holo</item>
+        <item name="backgroundStacked">@drawable/abs__ab_stacked_solid_light_holo</item>
+        <item name="backgroundSplit">@drawable/abs__ab_bottom_solid_light_holo</item>
+        <item name="divider">?attr/dividerVertical</item>
+        <item name="progressBarStyle">@style/Widget.Sherlock.Light.ProgressBar.Horizontal</item>
+        <item name="indeterminateProgressStyle">@style/Widget.Sherlock.Light.ProgressBar</item>
+        <item name="progressBarPadding">32dip</item>
+        <item name="itemPadding">8dip</item>
+    </style>
+
+    <style name="Widget.Sherlock.Light.ActionBar.Solid.Inverse">
+        <item name="titleTextStyle">@style/TextAppearance.Sherlock.Widget.ActionBar.Title.Inverse</item>
+        <item name="subtitleTextStyle">@style/TextAppearance.Sherlock.Widget.ActionBar.Subtitle.Inverse</item>
+        <item name="background">@drawable/abs__ab_solid_dark_holo</item>
+        <item name="backgroundStacked">@drawable/abs__ab_stacked_solid_dark_holo</item>
+        <item name="backgroundSplit">@drawable/abs__ab_bottom_solid_inverse_holo</item>
+        <item name="divider">@drawable/abs__list_divider_holo_dark</item>
+        <item name="progressBarStyle">@style/Widget.Sherlock.ProgressBar.Horizontal</item>
+        <item name="indeterminateProgressStyle">@style/Widget.Sherlock.ProgressBar</item>
+        <item name="progressBarPadding">32dip</item>
+        <item name="itemPadding">8dip</item>
+    </style>
+
+    <style name="Widget.Sherlock.Light.ActionBar.TabBar" parent="Widget.Sherlock.ActionBar.TabBar" />
+
+    <style name="Widget.Sherlock.Light.ActionBar.TabBar.Inverse" />
+
+    <style name="Widget.Sherlock.Light.ActionBar.TabText" parent="Widget.Sherlock.ActionBar.TabText" />
+
+    <style name="Widget.Sherlock.Light.ActionBar.TabText.Inverse">
+        <item name="android:textColor">?attr/textColorPrimaryInverse</item>
+    </style>
+
+    <style name="Widget.Sherlock.Light.ActionBar.TabView" parent="Widget.Sherlock.ActionBar.TabView" />
+
+    <style name="Widget.Sherlock.Light.ActionBar.TabView.Inverse" />
+
+    <style name="Widget.Sherlock.Light.ActionButton" parent="Widget.Sherlock.ActionButton" />
+
+    <style name="Widget.Sherlock.Light.ActionButton.CloseMode">
+        <item name="android:background">@drawable/abs__btn_cab_done_holo_light</item>
+    </style>
+
+    <style name="Widget.Sherlock.Light.ActionButton.Overflow">
+        <item name="android:src">@drawable/abs__ic_menu_moreoverflow_holo_light</item>
+    </style>
+
+    <style name="Widget.Sherlock.Light.ActionMode" parent="Widget.Sherlock.ActionMode">
+        <item name="titleTextStyle">@style/TextAppearance.Sherlock.Widget.ActionMode.Title</item>
+        <item name="subtitleTextStyle">@style/TextAppearance.Sherlock.Widget.ActionMode.Subtitle</item>
+    </style>
+
+    <style name="Widget.Sherlock.Light.ActionMode.Inverse" parent="Sherlock.__Widget.ActionMode">
+        <item name="titleTextStyle">@style/TextAppearance.Sherlock.Widget.ActionMode.Title.Inverse</item>
+        <item name="subtitleTextStyle">@style/TextAppearance.Sherlock.Widget.ActionMode.Subtitle.Inverse</item>
+    </style>
+
+    <style name="Widget.Sherlock.Light.ActivityChooserView" parent="Widget.Sherlock.ActivityChooserView">
+        <item name="android:background">@drawable/abs__ab_share_pack_holo_light</item>
+    </style>
+
+    <style name="Widget.Sherlock.Light.Button.Small" parent="Widget">
+        <item name="android:textAppearance">?attr/textAppearanceSmall</item>
+        <item name="android:textColor">@color/abs__primary_text_holo_light</item>
+        <item name="android:minHeight">48dip</item>
+        <item name="android:minWidth">48dip</item>
+    </style>
+
+    <style name="Widget.Sherlock.Light.DropDownItem.Spinner" parent="Sherlock.__Widget.Holo.DropDownItem" />
+
+    <style name="Widget.Sherlock.Light.ListPopupWindow" parent="Widget">
+        <item name="android:dropDownSelector">@drawable/abs__list_selector_holo_light</item>
+        <item name="android:popupBackground">@drawable/abs__menu_dropdown_panel_holo_light</item>
+        <item name="android:dropDownVerticalOffset">0dip</item>
+        <item name="android:dropDownHorizontalOffset">0dip</item>
+        <item name="android:dropDownWidth">wrap_content</item>
+    </style>
+
+    <style name="Widget.Sherlock.Light.ListView.DropDown" parent="Sherlock.__Widget.Holo.ListView">
+        <item name="android:divider">@drawable/abs__list_divider_holo_light</item>
+        <item name="android:listSelector">@drawable/abs__list_selector_holo_light</item>
+    </style>
+
+    <style name="Widget.Sherlock.Light.PopupMenu" parent="Widget.Sherlock.Light.ListPopupWindow" />
+
+    <style name="Widget.Sherlock.Light.PopupWindow.ActionMode" parent="Widget">
+        <item name="android:popupBackground">@android:color/white</item>
+    </style>
+
+    <style name="Widget.Sherlock.Light.ProgressBar" parent="Widget.Sherlock.ProgressBar" />
+
+    <style name="Widget.Sherlock.Light.ProgressBar.Horizontal" parent="Widget.Sherlock.ProgressBar.Horizontal">
+        <item name="android:progressDrawable">@drawable/abs__progress_horizontal_holo_light</item>
+    </style>
+
+    <style name="Widget.Sherlock.Light.SearchAutoCompleteTextView" parent="Sherlock.__Widget.SearchAutoCompleteTextView">
+        <item name="android:dropDownSelector">@drawable/abs__list_selector_holo_light</item>
+        <item name="android:popupBackground">@drawable/abs__menu_dropdown_panel_holo_light</item>
+    </style>
+
+    <style name="Widget.Sherlock.Light.Spinner.DropDown.ActionBar" parent="Sherlock.__Widget.Holo.Spinner">
+        <item name="android:background">@drawable/abs__spinner_ab_holo_light</item>
+        <item name="android:dropDownSelector">@drawable/abs__list_selector_holo_light</item>
+        <item name="android:popupBackground">@drawable/abs__menu_dropdown_panel_holo_light</item>
+    </style>
+
+    <style name="Widget.Sherlock.ListPopupWindow" parent="Widget">
+        <item name="android:dropDownSelector">@drawable/abs__list_selector_holo_dark</item>
+        <item name="android:popupBackground">@drawable/abs__menu_dropdown_panel_holo_dark</item>
+        <item name="android:dropDownVerticalOffset">0dip</item>
+        <item name="android:dropDownHorizontalOffset">0dip</item>
+        <item name="android:dropDownWidth">wrap_content</item>
+    </style>
+
+    <style name="Widget.Sherlock.ListView.DropDown" parent="Sherlock.__Widget.Holo.ListView" />
+
+    <style name="Widget.Sherlock.PopupMenu" parent="Widget.Sherlock.ListPopupWindow" />
+
+    <style name="Widget.Sherlock.PopupWindow.ActionMode" parent="Widget" />
+
+    <style name="Widget.Sherlock.ProgressBar" parent="android:Widget.ProgressBar">
+        <item name="android:indeterminateDrawable">@drawable/abs__progress_medium_holo</item>
+        <item name="android:animationResolution">33</item>
+    </style>
+
+    <style name="Widget.Sherlock.ProgressBar.Horizontal" parent="android:Widget.ProgressBar.Horizontal">
+        <item name="android:progressDrawable">@drawable/abs__progress_horizontal_holo_dark</item>
+        <!-- item name="android:indeterminateDrawable">@drawable/abs__progress_indeterminate_horizontal_holo</item -->
+        <item name="android:minHeight">16dip</item>
+        <item name="android:maxHeight">16dip</item>
+    </style>
+
+    <style name="Widget.Sherlock.SearchAutoCompleteTextView" parent="Sherlock.__Widget.SearchAutoCompleteTextView">
+        <item name="android:dropDownSelector">@drawable/abs__list_selector_holo_dark</item>
+        <item name="android:popupBackground">@drawable/abs__menu_dropdown_panel_holo_dark</item>
+    </style>
+
+    <style name="Widget.Sherlock.Spinner.DropDown.ActionBar" parent="Sherlock.__Widget.Holo.Spinner">
+        <item name="android:background">@drawable/abs__spinner_ab_holo_dark</item>
+    </style>
+
+    <style name="Widget.Sherlock.TextView.SpinnerItem" parent="Widget">
+        <item name="android:textAppearance">@style/TextAppearance.Sherlock.Widget.TextView.SpinnerItem</item>
+        <item name="android:paddingLeft">8dp</item>
+        <item name="android:paddingRight">8dp</item>
+    </style>
+    <!-- From: file:/home/noah/atipitaka-old/tipitaka/build/intermediates/exploded-aar/atipitaka-old/colorPickerView/unspecified/res/values/values.xml -->
+    <eat-comment />
+
+    <style name="dialog_color_pciker_view_portrait">
+        <item name="android:layout_width">240dp</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <!-- From: file:/home/noah/atipitaka-old/tipitaka/src/main/res/values/styles.xml -->
+    <eat-comment />
+
+    <style name="searchDialogStyle" parent="@android:style/Theme.Panel"></style>
+
+</resources>

@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android Tipitaka</string>
+    <string name="th_searching">Searching</string>
+    <string name="th_found">Found in</string>
+    <string name="collection">Collection</string>
+    <string name="hier">Hierarchy</string>
+    <string name="th_page">Sections</string>
+    <string name="th_search">Search</string>
+    <string name="th_book_label">Volume</string>
+    <string name="th_page_label">Section</string>
+    <string name="th_items_label">Paragraph</string>
+    <string name="th_read">  Read  </string>
+    <string name="th_lang">Thai</string>
+    <string name="pl_lang">Pali</string>
+    <string name="th">Thai</string>
+    <string name="pl">Pali</string>
+    <string name="th_tipitaka_label">Tipitaka</string>
+    <string name="th_tipitaka_book">Tipitaka Vol.</string>
+    <string name="search_hint">Enter search term</string>
+    <string name="read_page">Android Tipitaka - Reading</string>
+    <string name="bookmark_page">Android Tipitaka - Bookmarks</string>
+    <string name="english_page">Android Tipitaka - ATI</string>
+    <string name="search_page">Android Tipitaka - Search Results</string>
+    <string name="search_dialog">Android Tipitaka - Search</string>
+    <string name="dict_title">Android Tipitaka - Dictionaries</string>
+    <string name="quiz_title">Android Tipitaka - Quiz</string>
+    <string name="preferences_title">Android Tipitaka - Preferences</string>
+    <string name="help_dialog">Android Tipitaka - Help and About</string>
+    <string name="quiz">Quiz</string>
+    <string name="not_found">Term not found</string>
+    <string name="goto_page">Go to section</string>
+    <string name="goto_item">Go to paragraph</string>
+    <string name="enter_page">Enter section no.</string>
+    <string name="enter_item">Enter para. no.</string>
+    <string name="between_page">From section</string>
+	<string name="between_item">From paragraph</string>
+	<string name="more_found">Found more than one instance</string>
+	<string name="select_lang">Choose</string>
+	<string name="change_lang">Change Language</string>
+	<string name="compare">Compare</string>
+	<string name="regex_item">\\n\\s*\\[[0123456789]+?\\]|^\\s*\\[[0123456789]+?\\]</string>
+	<string name="zoom_in">zoom in</string>
+	<string name="zoom_out">zoom out</string>
+	<string name="find_thai">Search Thai</string>
+	<string name="find_pali">Search Pali</string>
+	<string name="vinai">Vinaya</string>
+	<string name="suttan">Suttanta</string>
+	<string name="abhi">Abhidhamma</string>
+	<string name="ss_vinai">Vi.</string>
+	<string name="ss_suttan">Su.</string>
+	<string name="ss_abhi">Abhi.</string>
+	<string name="ss_etc">Etc.</string>
+	<string name="ss_mul">Mūl</string>
+	<string name="ss_att">Aṭṭ</string>
+	<string name="ss_tik">Ṭīk</string>
+	<string name="s_page">p.</string>
+	<string name="s_sut">su.</string>		
+	<string name="s_vinai">Vinaya</string>
+	<string name="s_suttan">Sutta</string>
+	<string name="s_abhi">Abhi.</string>	
+	<string name="vinai_full">Vinaya Pitaka</string>
+	<string name="suttan_full">Suttanta Pitaka</string>
+	<string name="abhi_full">Abhidhamma Pitaka</string>
+	<string name="etc_full">Et Cetera</string>
+	<string name="mul_full">Mūla</string>
+	<string name="att_full">Aṭṭhakathā</string>
+	<string name="tik_full">Ṭīkā</string>
+	<string name="th_suttra">Suttas</string>
+	<string name="select_item_compare">Select item to compare</string>
+	<string name="select_item_memo">Select item to bookmark</string>
+	<string name="all">all</string>
+	<string name="ok">OK</string>
+	<string name="cancel">Cancel</string>
+	<string name="select_cate">Select category to search</string>
+	<string name="clear_history">Clear history</string>
+	<string name="yes">yes</string>
+	<string name="no">no</string>
+	<string name="confirm_clear_history">Are you sure you want to clear the history?</string>
+    <string name="share">Share</string>
+	<string name="memoTitle">Set Bookmark</string>
+	<string name="memo">Bookmark</string>
+	<string name="memo_set">Bookmark Set</string>
+	<string name="delete_memo">Delete bookmark</string>
+	<string name="enter_note">Enter bookmark name</string>
+	<string name="save">Save</string>
+	<string name="bookmark">Bookmarks</string>
+	<string name="change_language">Change language</string>
+	<string name="manage_bookmark">Edit</string>
+	<string name="delete">Delete</string>
+	<string name="edit">Edit</string>
+	<string name="edit_note">Edit name</string>
+	<string name="confirm_delete_item">Are you sure you want to delete the bookmark?</string>
+	<string name="delete_item">Delete bookmark</string>
+	<string name="spinner_lang_prompt">Change language</string>
+	<string name="enter_thai">Enter Thai</string>
+	<string name="enter_pali">Enter Pali</string>	
+	<string name="private_info">Move database</string>
+	<string name="import_info">Move database to internal storage</string>
+	<string name="export_info">Move database to SD card</string>
+	<string name="error_found">Error found</string>
+	<string name="db_not_found">Database not found</string>
+	<string name="ati_not_found">Download Archive</string>
+	<string name="ati_version">Getting latest version…</string>
+	<string name="ati_error">Error downloading archive</string>
+	<string name="cannot_write">Unable to write database</string>
+	<string name="export_success">Database moved to internal storage</string>
+	<string name="import_success">Database moved to SD card</string>
+	<string name="saveinfo_not_found">File not found on SD card</string>
+	<string name="downloading">Downloading</string>
+	<string name="finish">Finished</string>
+	<string name="file_exists">File already exists</string>
+	<string name="confirm_overwrite">Overwrite existing file?</string>
+	<string name="zero_zero">(0/0)</string>
+	<string name="recall_data">Recall data</string>
+	<string name="please_wait">Please wait</string>
+	<string name="desc">Descending</string>
+	<string name="asc">Ascending</string>
+	<string name="order_entry">Entry order</string>
+	<string name="keywords">Keywords</string>
+	<string name="suts_number">Suttas found</string>
+	<string name="sorting_prefs">Order preference</string>
+	<string name="sorting_bookmark_prefs">Bookmark order</string>
+	<string name="unread">Unread</string>
+	<string name="unread_all">All unread</string>
+	<string name="confirm_unread_all_items">Set all items as unread?</string>
+	<string name="unread_all_items">Set all items as unread</string>
+	<string name="freq_format">(%s times)</string>
+	<string name="recall_freq">Recall frequency</string>
+	<string name="data_not_found">Data not found</string>
+	<string name="please_search_again">Please search again</string>
+	<string name="confirm_download">The database is either missing or out-of-date.  Do you want to download the latest database?</string>
+	<string name="confirm_download_ati">Do you want to download the latest AccessToInsight archive?  If you already have it, put the ati_website directory in your sdcard and retry.</string>
+	<string name="internet_not_connected">No connection to the Internet</string>
+	<string name="check_your_connection">Please check your data connection and try again.</string>
+	<string name="unzipping_db">Unzipping the database...</string>
+	<string name="unzipping_ati">Unzipping the archive...</string>
+	<string name="unzipped">Database unzipped</string>
+	<string name="unzipped_ati">Archive unzipped</string>
+	<string name="limitation">Program Limitations</string>
+
+	<string name="about">About</string>
+	<string name="help">Help</string>
+	<string name="help_intro">Welcome to the Android Tipitaka.  Below you will find basic instructions on how to use this app.  Please send comments and feedback to <a href="mailto:yuttadhammo@gmail.com">yuttadhammo@gmail.com</a>.  Happy trails!</string>
+	<string name="help_content_1"><b>Home Screen:</b> Select one of the sets and a hierarchy level at the top, then click on a volume name to open the volume.  </string>
+	<string name="help_content_2"><b>Reading:</b> Once a volume is open, it will initially show an index which is opened and closed using the "Index" menu item.  Navigate to a section by clicking on an index entry.  When reading a section, swiping a finger left or right across the text moves backwards or forwards in the sections.  Highlighting a word (only available in later versions of Android) causes a "Dictionaries" button to appear, which allows to look up a word in the dictionaries, which recognize declensions as well.  Bookmark using the "Bookmark" button when viewing a section.</string>
+	<string name="help_content_3"><b>Search:</b> The search button allows you to search for a word or phrase in selected texts; use the Velthuis scheme (e.g. "aa", ".t", etc.) for diacritics.</string>
+	<string name="help_content_4"><b>Dictionaries:</b> Four dictionaries are included in the Android Tipitaka, the PED, the CPED, the CEPD and the DPPN.  Use the Velthuis scheme to look up words starting with a string (use * for wildcards within or at the beginning of the word).  If no match is found, the app will check for base words from declensions (e.g. searching for "buddho" will give a definition of "buddha").</string>
+	<string name="help_content_5"><b>English (ATI):</b> Android Tipitaka can incorporate the offline archive from Access to Insight (<a href="http://www.accesstoinsight.org/tech/download/bulk/bulk.html">http://www.accesstoinsight.org/tech/download/bulk/bulk.html</a>) to allow browsing of their suttas and other articles of interest, as well as bookmarking pages for later reference.  Clicking on the "English" menu item while reading from the sutta pitaka will take you directly to the section of ATI\'s site regarding the nikaya you are reading.</string>
+	<string name="about_content_1">This program is based on the free and open source E-Tipitaka project by Sutee Sudprasert:</string>
+	<string name="about_content_2"><a href="https://github.com/ssutee/E-Tipitaka-for-Android">https://github.com/ssutee/E-Tipitaka-for-Android</a></string>
+	<string name="about_content_3">Tipitaka files are taken from the VRI tipitaka here:</string>
+	<string name="about_content_4"><a href="http://tipitaka.org/romn/">http://tipitaka.org/romn/</a></string>
+	
+	<string name="program_thai_name">Android Tipitaka</string>
+	<string name="license">Android Tipitaka is licensed under the GPL 3+</string>
+	
+	<string name="edit_n_suts">Edit number of suttas</string>
+	<string name="enter_n_suts">Enter number of suttas</string>
+	<string name="assign_priority">Assign priority</string>
+	<string name="assign">Assign</string>
+	<string name="enter_priority">Enter priority</string>
+	<string name="priority_number">Priority number</string>
+	<string name="move_up">Move up</string>
+	<string name="move_down">Move down</string>
+	<string name="recompute_priority">Recompute priority</string>
+	<string name="confirm_recompute_priority">Confirm priority change?</string>
+	<string name="confirm_command">Continue?</string>
+	<string name="enter_a_to_z">A-Z</string>
+	<string name="code">Code</string>
+	<string name="number">Number</string>
+	<string name="goto_position">Go to position</string>
+	<string name="enter_position">Enter position</string>
+	<string name="goto_result_position">Go to result position</string>
+	<string name="duplicated_item">Item already saved</string>
+	<string name="swap_lang">Switch language</string>
+	<string name="note_top">Alphabetical Order</string>
+	<string name="volume_page">number,volume-section</string>
+	<string name="url_sort">By URL Location</string>
+	<string name="sorting">Sorting</string>
+	<string name="marked">Star</string>
+	<string name="unmarked">Unstar</string>	
+	<string name="confirm_delete_memo">Confirm delete bookmark?</string>
+	<string name="deleted_memo">Bookmark deleted</string>
+	<string name="memo_not_found">Bookmark not found</string>
+
+	<string name="volumes">volumes</string>
+	<string name="sections">sections</string>
+	<string name="in">in</string>
+	<string name="english">English</string>
+	<string name="preferences">Preferences</string>
+	<string name="dictionary">Dictionary</string>
+	
+	<string name="lookup">Lookup</string>
+	<string name="menu">Menu</string>
+    <string name="dict">Dictionaries</string>
+    <string name="top">Top</string>
+    <string name="minus">Zoom Out</string>
+    <string name="plus">Zoom In</string>
+
+	<string name="index">Index</string>
+	<string name="find">Find in page</string>
+	<string name="search_from_start">Reached end of page, continuing from top</string>
+	<string name="search_no_match">Search term not found</string>
+		
+	<string name="prefText">Text Preferences</string>
+	<string name="prefBaseSize">Tipitaka Font Size</string>
+	<string name="prefShowVar">Show Variants</string>
+	<string name="prefShowDefs">Show Definitions</string>
+	<string name="prefShowDefNote">When highlighting a word, show a concise definition</string>
+
+	<string name="prefColor">Text Color</string>
+	<string name="prefBackColor">Background Color</string>
+	<string name="prefSearchColor">Search Term Color</string>
+	<string name="prefFindColor">Find Highlight Color</string>
+	<string name="prefTitleColor">Title Color</string>
+	<string name="prefVarColor">Variant Color</string>
+			
+	
+	<string name="prefNav">Navigation Preferences</string>
+	<string name="prefFlingNav">Fling to Navigate</string>
+	<string name="prefFlingNavDesc">allows dragging finger left or right on text to navigate</string>
+	<string name="prefVolNav">Volume Buttons Navigate</string>
+	<string name="prefVolNavDesc">allows use of volume buttons to navigate in text</string>
+	<string name="prefVolNavReverse">Reverse Volume Buttons</string>
+	<string name="prefVolNavReverseDesc">if enabled, volume up goes to previous and volume down goes to next section</string>
+		
+	<string name="prefMisc">Misc Preferences</string>
+	<string name="prefDataDir">Database Location</string>
+	<string name="prefAtiDir">ATI Location</string>
+				
+    <string name="PED">Full Pali-English</string>
+    <string name="CPED">Concise Pali-English</string>
+    <string name="CEPD">Concise English-Pali</string>
+    <string name="DPPN">Pali Proper Names</string>
+    <string name="MULTI">Pali Combined</string>
+    
+    <string name="choose_dict">Choose A Dictionary:</string>
+    
+    <string name="text_paused_cellular">Would you like to enable downloading over cellular connections? Depending on your data plan, this may cost you money.</string>
+    <string name="text_paused_cellular_2">If you choose not to enable downloading over cellular connections, the download will automatically resume when wi-fi is available.</string>
+	<string name="text_button_resume_cellular">Resume download</string>
+    <string name="text_button_wifi_settings">Wi-Fi settings</string>
+	<string name="text_verifying_download">Verifying Download</string>
+    <string name="text_validation_complete">XAPK File Validation Complete.</string>
+    <string name="text_copy_complete">Database Copy Complete.</string>
+    <string name="text_validation_failed">XAPK File Validation Failed.</string>
+    <string name="text_copy_failed">Database Copy Failed.</string>
+    <string name="text_button_pause">Pause Download</string>
+    <string name="text_button_resume">Resume Download</string>
+    <string name="text_button_cancel">Cancel</string>
+    <string name="text_button_cancel_verify">Cancel Verification</string>
+    <string name="text_button_cancel_copy">Cancel Copy</string>
+    <string name="enter_query">Enter search query</string>
+    
+	<string name="correct">Correct!</string>
+	<string name="incorrect">Incorrect!</string>
+	<string name="question">What is the meaning of %s?</string>
+	
+
+    <!-- When a download completes, a notification is displayed, and this
+        string is used to indicate that the download successfully completed.
+        Note that such a download could have been initiated by a variety of
+        applications, including (but not limited to) the browser, an email
+        application, a content marketplace. -->
+    <string name="notification_download_complete">Download complete</string>
+
+    <!-- When a download completes, a notification is displayed, and this
+        string is used to indicate that the download failed.
+        Note that such a download could have been initiated by a variety of
+        applications, including (but not limited to) the browser, an email
+        application, a content marketplace. -->
+    <string name="notification_download_failed">Download unsuccessful</string>
+
+
+    <string name="state_unknown">Starting..."</string>
+    <string name="state_idle">Waiting for download to start</string>
+    <string name="state_fetching_url">Looking for resources to download</string>
+    <string name="state_connecting">Connecting to the download server</string>
+    <string name="state_downloading">Downloading resources</string>
+    <string name="state_completed">Download finished</string>
+    <string name="state_paused_network_unavailable">Download paused because no network is available</string>
+    <string name="state_paused_network_setup_failure">Download paused. Test a website in browser</string>
+    <string name="state_paused_by_request">Download paused</string>
+    <string name="state_paused_wifi_unavailable">Download paused because wifi is unavailable</string>
+    <string name="state_paused_wifi_disabled">Download paused because wifi is disabled</string>
+    <string name="state_paused_roaming">Download paused because you are roaming</string>
+    <string name="state_paused_sdcard_unavailable">Download paused because the external storage is unavailable</string>
+    <string name="state_failed_unlicensed">Download failed because you may not have purchased this app</string>
+    <string name="state_failed_fetching_url">Download failed because the resources could not be found</string>
+    <string name="state_failed_sdcard_full">Download failed because the external storage is full</string>
+    <string name="state_failed_cancelled">Download cancelled</string>
+    <string name="state_failed">Download failed</string>
+
+    <string name="kilobytes_per_second">%1$s KB/s</string>
+    <string name="time_remaining">Time remaining: %1$s</string>
+    <string name="time_remaining_notification">%1$s left</string>
+    <string name="go_mul">Go To Mula</string>
+    <string name="go_att">Go To Att</string>
+    <string name="go_tik">Go to Tika</string>
+    <string name="update_archive">Update Archive</string>
+    <string name="update_archive_summary">Attempt to download the latest database from Google</string>
+    <string name="text_copying_database">Copying Database</string>
+    <string name="prefTextScript">Text Script (experimental)</string>
+
+</resources>

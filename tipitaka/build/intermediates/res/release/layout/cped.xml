@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@+id/layout" 
+	android:orientation="vertical"
+	android:layout_width="fill_parent" 
+	android:layout_height="fill_parent">
+	
+	<WebView android:id="@+id/webview"
+		android:layout_width="fill_parent"
+		android:layout_height="0dip"
+		android:layout_weight="1" /> 
+	<LinearLayout android:id="@+id/LinearLayout01"
+		android:orientation="horizontal"
+		android:layout_width="match_parent" 
+		android:layout_height="wrap_content" android:padding="5dp">
+		
+		<EditText 
+		    android:id="@+id/lookup_text"
+		    android:inputType="text"
+		    android:imeOptions="actionSearch"
+		    android:hint="@string/enter_query"
+			android:textSize="22sp"
+			android:singleLine="true"
+			android:layout_width="0dp"
+			android:layout_height="match_parent"
+			android:layout_weight="1"
+			/>
+	
+		<Button android:id="@+id/lookup_button"
+			android:text="@string/lookup"
+			android:layout_width="wrap_content"
+			android:layout_height="match_parent"/>
+	</LinearLayout>
+
+</LinearLayout>
+<!-- From: file:/home/noah/atipitaka-old/tipitaka/src/main/res/layout/cped.xml -->

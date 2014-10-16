@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="org.yuttadhammo.tipitaka"
+      android:versionName="10.0" android:versionCode="68">
+
+	<uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+	<uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="com.android.vending.CHECK_LICENSE" />
+
+    <supports-screens android:resizeable="true"
+                      android:smallScreens="true"
+                      android:normalScreens="true"
+                      android:largeScreens="true"
+                      android:xlargeScreens="true"
+                      android:anyDensity="true"/>
+    
+    <application 
+        android:label="@string/app_name" 
+        android:icon="@drawable/logo"
+        android:backupAgent="TipitakaBackupAgent"
+        android:allowBackup="true"
+        >
+        <meta-data android:name="com.google.android.backup.api_key" android:value="AEdPqrEAAAAI7xEGtdEZTiIvq_1IDyX4IWH0lW3umMY1LqOCmQ" />
+        <activity android:name=".PlayDownloaderActivity"
+            android:configChanges="orientation|screenSize|keyboardHidden"
+            android:label="@string/app_name"
+            >
+        </activity>
+        <activity android:name=".SelectBookActivity"
+        		  android:theme="@style/SwitchTheme"
+        		  android:configChanges="orientation|screenSize|keyboardHidden"
+                  android:label="@string/app_name"
+                  >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+		<activity android:name=".ReadBookActivity"
+				  android:theme="@style/SwitchTheme"
+        		  android:configChanges="orientation|screenSize|keyboardHidden"
+				  android:label="@string/read_page">
+		</activity>
+
+		<activity android:name=".EnglishActivity"
+				  android:theme="@style/SwitchTheme"
+        		  android:configChanges="orientation|screenSize|keyboardHidden"
+				  android:label="@string/english_page">
+		</activity>
+
+		<activity android:name=".SearchActivity"
+				  android:theme="@style/SwitchTheme"
+        		  android:configChanges="orientation|screenSize|keyboardHidden"
+				  android:label="@string/search_page"
+				  android:exported="false">
+            <meta-data android:name="android.app.searchable"
+                   android:resource="@xml/searchable"/>
+			<intent-filter>
+            	<action android:name="android.intent.action.SEARCH" />			
+			</intent-filter>
+		</activity>		
+		<activity 
+			android:name=".BookmarkPaliActivity"
+			android:theme="@style/SwitchTheme"
+			android:configChanges="orientation|screenSize|keyboardHidden"
+			android:noHistory="true"
+			android:label="@string/bookmark_page"
+		/>
+		<activity 
+			android:name=".BookmarkEnglishActivity"
+			android:configChanges="orientation|screenSize|keyboardHidden"
+			android:noHistory="true"
+			android:theme="@style/SwitchTheme"
+		/>
+        <activity 
+			android:theme="@style/SwitchTheme"
+			android:name=".SettingsActivity"
+			android:noHistory="true"
+			android:label="@string/preferences_title"
+        />
+        <activity 
+			android:theme="@style/SwitchTheme"
+			android:configChanges="orientation|screenSize|keyboardHidden"
+			android:name=".DictionaryActivity"
+			android:noHistory="true"
+			android:label="@string/dict_title"
+			>
+			<intent-filter>
+				<action android:name="android.intent.action.SEND"/>
+				<!-- are both of these necessary? -->
+				<category android:name="android.intent.category.DEFAULT"/>
+				<category android:name="android.intent.category.ALTERNATIVE"/>
+				<data android:mimeType="text/plain" />
+            </intent-filter>
+			<intent-filter>
+				<action android:name="org.yuttadhammo.tipitaka.LOOKUP"/>
+				<category android:name="android.intent.category.DEFAULT" />
+		    </intent-filter>
+		</activity>
+		
+        <activity 
+            android:name="SearchDialog"
+			android:configChanges="orientation|screenSize|keyboardHidden"
+		  	android:label="@string/search_dialog"
+			android:theme="@style/SwitchTheme"
+            />
+        <activity 
+			android:theme="@style/SwitchTheme"
+			android:configChanges="orientation|screenSize|keyboardHidden"
+			android:name=".QuizActivity"
+			android:noHistory="true"
+			android:label="@string/quiz_title"
+        />
+        
+        <activity 
+			android:theme="@style/SwitchTheme"
+			android:name=".HelpActivity"
+			android:noHistory="true"
+			android:label="@string/help_dialog"
+        />
+        <service android:name=".PlayDownloaderService" />
+        <receiver android:name=".PlayAlarmReceiver" />
+
+    </application>
+</manifest> 

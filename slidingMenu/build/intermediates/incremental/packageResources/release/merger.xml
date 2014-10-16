@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="/home/noah/atipitaka-old/slidingMenu/src/main/res" >
+            <file
+                name="slidingmenumain"
+                path="/home/noah/atipitaka-old/slidingMenu/src/main/res/layout/slidingmenumain.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                path="/home/noah/atipitaka-old/slidingMenu/src/main/res/values/ids.xml"
+                qualifiers="" >
+                <item
+                    name="selected_view"
+                    type="id"/>
+            </file>
+            <file
+                path="/home/noah/atipitaka-old/slidingMenu/src/main/res/values/attrs.xml"
+                qualifiers="" >
+                <declare-styleable name="SlidingMenu" >
+                    <attr name="mode" >
+                        <enum
+                            name="left"
+                            value="0" />
+                        <enum
+                            name="right"
+                            value="1" />
+                    </attr>
+                    <attr
+                        name="viewAbove"
+                        format="reference" />
+                    <attr
+                        name="viewBehind"
+                        format="reference" />
+                    <attr
+                        name="behindOffset"
+                        format="dimension" />
+                    <attr
+                        name="behindWidth"
+                        format="dimension" />
+                    <attr
+                        name="behindScrollScale"
+                        format="float" />
+                    <attr name="touchModeAbove" >
+                        <enum
+                            name="margin"
+                            value="0" />
+                        <enum
+                            name="fullscreen"
+                            value="1" />
+                    </attr>
+                    <attr name="touchModeBehind" >
+                        <enum
+                            name="margin"
+                            value="0" />
+                        <enum
+                            name="fullscreen"
+                            value="1" />
+                    </attr>
+                    <attr
+                        name="shadowDrawable"
+                        format="reference" />
+                    <attr
+                        name="shadowWidth"
+                        format="dimension" />
+                    <attr
+                        name="fadeEnabled"
+                        format="boolean" />
+                    <attr
+                        name="fadeDegree"
+                        format="float" />
+                    <attr
+                        name="selectorEnabled"
+                        format="boolean" />
+                    <attr
+                        name="selectorDrawable"
+                        format="reference" />
+                </declare-styleable>
+            </file>
+        </source>
+        <source path="/home/noah/atipitaka-old/slidingMenu/build/generated/res/rs/release" />
+        <source path="/home/noah/atipitaka-old/slidingMenu/build/generated/res/generated/release" />
+    </dataSet>
+    <dataSet config="release" >
+        <source path="/home/noah/atipitaka-old/slidingMenu/src/release/res" />
+    </dataSet>
+
+</merger>

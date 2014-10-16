@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  	xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:id="@+id/menu_dict"
+	    android:icon="@android:drawable/ic_menu_more"
+		android:title="@string/dict"
+		android:showAsAction="ifRoom|withText" 
+		>
+		<menu>
+		    <group android:id="@+id/group_dict">
+				<item 
+				    android:id="@+id/menu_PED" 
+				    android:title="@string/PED"
+				    android:checkable="true"
+				    />
+				<item 
+				    android:id="@+id/menu_CPED" 
+				    android:title="@string/CPED"
+				    android:checkable="true"
+				    />
+				<item 
+				    android:id="@+id/menu_CEPD" 
+				    android:title="@string/CEPD"
+				    android:checkable="true"
+				    />
+				<item 
+				    android:id="@+id/menu_DPPN" 
+				    android:title="@string/DPPN"
+				    android:checkable="true"
+				    />
+				<item 
+				    android:id="@+id/menu_MULTI" 
+				    android:title="@string/MULTI"
+				    android:checkable="true"
+				    />
+			</group>
+		</menu>
+	</item>
+	<item android:id="@+id/menu_top"
+		android:showAsAction="ifRoom|withText" 
+	    android:icon="@android:drawable/ic_menu_upload"
+		android:title="@string/top"
+		/>
+
+  	<item android:id="@+id/menu_english"
+  		  android:icon="@drawable/ati"
+  		  android:title="@string/english"/> 
+</menu>

@@ -1,0 +1,44 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+	<head>
+		<title>Android Pali-English Resources</title>
+		<style> 
+			@font-face { 
+				font-family: verajjab; src: url('file:///android_asset/verajjab.ttf'); 
+			} 
+			@font-face { 
+				font-family: verajjan; src: url('file:///android_asset/verajjan.ttf'); 
+			} 
+			body{
+				font-family:verajjan;
+			}
+			.title{
+				font-family:verajjab; color:#5A5;font-weight:bold
+			} 
+			div.title{
+				font-size:150%; margin-top:24px;
+			}
+		</style>
+	</head>
+	<body>
+		<div id="content">
+			<div align="center">
+				<h2>Pali-English Dictionaries</h2>
+				Type a word to search in the box below - use Velthuis scheme for diacritics (aa = ā, .t = ṭ, "n = ṅ, etc.). 
+				<br /><br />
+				Use the "Menu" button to change dictionaries and adjust the view.
+				<br /><br />
+				Available dictionaries include: 
+				<div style="text-align:left; width:500px;">
+					<ul>
+						<li>CPED - Concise Pali-English Dictionary</li> 
+						<li>CEPD - Concise English-Pali Dictionary</li> 
+						<li>DPPN - Dictionary of Pali Proper Names</li> 
+						<li>PED - Pali-English Dictionary</li> 
+					</ul>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>

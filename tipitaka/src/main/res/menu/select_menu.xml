@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  	xmlns:android="http://schemas.android.com/apk/res/android"
+  	android:id="@+id/main_menu">
+      
+	<item android:id="@+id/bookmark_menu_item"
+  		  android:showAsAction="ifRoom|withText" 
+  		  android:icon="@drawable/ic_menu_archive"
+          android:title="@string/bookmark" />
+	<item android:id="@+id/dict_menu_item"
+  		  android:showAsAction="ifRoom|withText" 
+  		  android:icon="@android:drawable/ic_menu_sort_alphabetically"
+          android:title="@string/dictionary" />
+  	<item android:id="@+id/search_menu_item"
+  		  android:showAsAction="ifRoom|withText" 
+  		  android:icon="@android:drawable/ic_menu_search"
+		  android:title="@string/th_search" />
+	<item android:id="@+id/english_menu_item"
+  		  android:icon="@drawable/ati"
+          android:title="@string/english" />
+	<item android:id="@+id/quiz_menu_item"
+		  android:icon="@android:drawable/ic_menu_agenda"
+          android:title="@string/quiz" />
+	<item android:id="@+id/preferences_menu_item"
+  		  android:icon="@android:drawable/ic_menu_manage"
+          android:title="@string/preferences" />
+  	<item android:id="@+id/help_menu_item"
+  		  android:icon="@android:drawable/ic_menu_help"
+		  android:title="@string/help" />
+		            
+<!--
+  	<item android:id="@+id/private_info"
+  		  android:title="@string/private_info">
+  		  <menu>
+			<group android:checkableBehavior="single">
+				<item android:id="@+id/import_info" android:title="@string/import_info" />
+				<item android:id="@+id/export_info" android:title="@string/export_info" />
+			</group>  		  
+  		  </menu>
+  	</item>
+-->
+
+</menu>

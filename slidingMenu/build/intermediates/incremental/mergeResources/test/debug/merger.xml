@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="20.0.0" >
+        <source path="/home/noah/atipitaka-old/slidingMenu/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/res" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/home/noah/atipitaka-old/slidingMenu/build/intermediates/bundles/debug/res" >
+            <file
+                name="slidingmenumain"
+                path="/home/noah/atipitaka-old/slidingMenu/build/intermediates/bundles/debug/res/layout/slidingmenumain.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                path="/home/noah/atipitaka-old/slidingMenu/build/intermediates/bundles/debug/res/values/values.xml"
+                qualifiers="" >
+                <item
+                    name="selected_view"
+                    type="id"/>
+
+                <declare-styleable name="SlidingMenu" >
+                    <attr name="mode" >
+                        <enum
+                            name="left"
+                            value="0" />
+                        <enum
+                            name="right"
+                            value="1" />
+                    </attr>
+                    <attr
+                        name="viewAbove"
+                        format="reference" />
+                    <attr
+                        name="viewBehind"
+                        format="reference" />
+                    <attr
+                        name="behindOffset"
+                        format="dimension" />
+                    <attr
+                        name="behindWidth"
+                        format="dimension" />
+                    <attr
+                        name="behindScrollScale"
+                        format="float" />
+                    <attr name="touchModeAbove" >
+                        <enum
+                            name="margin"
+                            value="0" />
+                        <enum
+                            name="fullscreen"
+                            value="1" />
+                    </attr>
+                    <attr name="touchModeBehind" >
+                        <enum
+                            name="margin"
+                            value="0" />
+                        <enum
+                            name="fullscreen"
+                            value="1" />
+                    </attr>
+                    <attr
+                        name="shadowDrawable"
+                        format="reference" />
+                    <attr
+                        name="shadowWidth"
+                        format="dimension" />
+                    <attr
+                        name="fadeEnabled"
+                        format="boolean" />
+                    <attr
+                        name="fadeDegree"
+                        format="float" />
+                    <attr
+                        name="selectorEnabled"
+                        format="boolean" />
+                    <attr
+                        name="selectorDrawable"
+                        format="reference" />
+                </declare-styleable>
+            </file>
+        </source>
+    </dataSet>
+    <dataSet config="main" >
+        <source path="/home/noah/atipitaka-old/slidingMenu/src/androidTest/res" />
+        <source path="/home/noah/atipitaka-old/slidingMenu/build/generated/res/rs/test/debug" />
+        <source path="/home/noah/atipitaka-old/slidingMenu/build/generated/res/generated/test/debug" />
+    </dataSet>
+
+</merger>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+	<item 
+		android:state_checked="true"
+		android:background="@android:color/white"/>
+	<item
+		android:state_checked="false"
+		android:background="@android:color/black"/>
+</selector>
+<!-- From: file:/home/noah/atipitaka-old/tipitaka/src/main/res/color/index_button.xml -->

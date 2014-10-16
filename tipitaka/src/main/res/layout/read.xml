@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/shell_text"
+	android:layout_height="match_parent"
+	android:layout_width="match_parent"
+	android:fillViewport="true"
+	>
+	<LinearLayout
+	    android:id="@+id/search"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+		android:layout_alignParentTop="true"
+	  	android:orientation="horizontal"
+		/>	
+	<android.support.v4.view.ViewPager
+	    android:id="@+id/pager"
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+		android:layout_below="@id/search"
+	    />
+	<LinearLayout
+	    android:id="@+id/dict_bar"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:visibility="gone"
+	  	android:orientation="horizontal"
+		android:layout_below="@id/search"
+	  	>
+		<TextView
+		    android:id="@+id/def_text"
+			android:layout_width="0dp"
+			android:layout_weight="1"
+			android:layout_height="wrap_content"
+			android:padding="10dp"
+			android:textSize="16sp"
+			android:visibility="invisible"
+		  	android:background="#FFFFFF"
+			android:scrollHorizontally="true"
+            android:layout_gravity="center_vertical"
+			/>
+		<Button 
+			android:id="@+id/dict_button"
+			android:layout_height="wrap_content"
+			android:layout_width="wrap_content"
+			android:text="@string/dict"
+			android:textSize="16sp"
+            android:background="@android:drawable/btn_default"
+            android:layout_gravity="center_vertical"
+			/>
+	</LinearLayout>
+</RelativeLayout>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/home/noah/atipitaka/colorPickerView/src/main/res/values-v11/styles.xml -->
+    <eat-comment />
+
+    <style name="dialog_color_pciker_view_portrait">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+</resources>

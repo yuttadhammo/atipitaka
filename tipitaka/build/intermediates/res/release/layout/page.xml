@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <TextView
+        android:id="@+id/hidden_text"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone"/>
+    <ScrollView
+        android:id="@+id/scroll_text"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+        <view class="org.yuttadhammo.tipitaka.ReadBookActivity$PaliTextView"
+            style="?android:attr/textViewStyle"
+            android:id="@+id/main_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:textSize="16sp"
+            android:lineSpacingExtra="2dip"
+        />
+    </ScrollView>
+</LinearLayout><!-- From: file:/home/noah/atipitaka-old/tipitaka/src/main/res/layout/page.xml -->
